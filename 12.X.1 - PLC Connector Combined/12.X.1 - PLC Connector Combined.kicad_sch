@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 0d1efd01-2b77-4213-8750-2a5840dff8e0)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 33.02 69.85) (size 99.06 53.34) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d1901711-74e8-48a3-89c4-56d6bd22ae7b)
+    (property "Sheetname" "12.1.1" (at 33.02 69.1384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "12.1.1.kicad_sch" (at 33.02 123.7746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "12.X.1 - PLC Connector Combined"
+        (path "/0d1efd01-2b77-4213-8750-2a5840dff8e0" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 152.4 71.12) (size 95.25 52.07) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid dac63418-faa2-4733-beb7-0c35a747311b)
+    (property "Sheetname" "12.2.1" (at 152.4 70.4084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "12.2.1.kicad_sch" (at 152.4 123.7746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "12.X.1 - PLC Connector Combined"
+        (path "/0d1efd01-2b77-4213-8750-2a5840dff8e0" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
