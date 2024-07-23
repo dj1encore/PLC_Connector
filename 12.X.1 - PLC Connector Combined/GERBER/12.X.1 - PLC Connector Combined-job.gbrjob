@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.10"
     },
-    "CreationDate": "2024-07-22T08:22:22-04:00"
+    "CreationDate": "2024-07-22T21:05:33-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,7 +14,7 @@
       "Revision": "rev?"
     },
     "Size": {
-      "X": 59.75,
+      "X": 61.7694,
       "Y": 72.59
     },
     "LayerNumber": 2,
@@ -74,6 +74,16 @@
     {
       "Path": "12.X.1 - PLC Connector Combined-Edge_Cuts.gbr",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "12.X.1 - PLC Connector Combined-F_V-CUT.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "12.X.1 - PLC Connector Combined-B_V-CUT.gbr",
+      "FileFunction": "Other,User",
       "FilePolarity": "Positive"
     }
   ],
