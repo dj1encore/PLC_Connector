@@ -1,0 +1,18 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.10*%
+%TF.CreationDate,2024-08-04T06:11:57-04:00*%
+%TF.ProjectId,12.X.2 - PLC Connector Combined,31322e58-2e32-4202-9d20-504c4320436f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Other,User*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.10) date 2024-08-04 06:11:57*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.150000*%
+G04 APERTURE END LIST*
+D10*
+X102310000Y-68600000D02*
+X102310000Y-130090000D01*
+M02*
