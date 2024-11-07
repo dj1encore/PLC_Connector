@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\DATA\Dropbox\Volodyne\Volodyne Engineering\00 PCB\PLC_Connector\14.X.4 - PMOS - PLC Connector Combined\14.X.4 - PMOS - PLC Connector Combined.kicad_sch</source>
-    <date>11/5/2024 3:29:17 PM</date>
+    <date>11/6/2024 8:09:19 AM</date>
     <tool>Eeschema 7.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -281,7 +281,7 @@
       <tstamps>b32487a3-19b1-4265-b005-b5d91a581193</tstamps>
     </comp>
     <comp ref="J221">
-      <value>Dorabo-DB128L_5_08_2P_BKS</value>
+      <value>DB128L-5.08-2P-BK-S</value>
       <footprint>PCB_Library:1729128</footprint>
       <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
       <fields>
@@ -302,7 +302,7 @@
       <tstamps>f9cb4d4f-344e-49af-a0c8-6bf72da27cd4</tstamps>
     </comp>
     <comp ref="J222">
-      <value>Dorabo-DB128L_5_08_2P_BKS</value>
+      <value>DB128L-5.08-2P-BK-S</value>
       <footprint>PCB_Library:1729128</footprint>
       <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
       <fields>
@@ -323,7 +323,7 @@
       <tstamps>639ce8be-3d97-4c96-8fcc-9367cc0d8cdd</tstamps>
     </comp>
     <comp ref="J223">
-      <value>Dorabo-DB128L_5_08_2P_BKS</value>
+      <value>DB128L-5.08-2P-BK-S</value>
       <footprint>PCB_Library:1729128</footprint>
       <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
       <fields>
@@ -344,7 +344,7 @@
       <tstamps>087ad897-576a-454e-81ea-998d548c52a0</tstamps>
     </comp>
     <comp ref="J224">
-      <value>Dorabo-DB128L_5_08_2P_BKS</value>
+      <value>DB128L-5.08-2P-BK-S</value>
       <footprint>PCB_Library:1729128</footprint>
       <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
       <fields>
@@ -365,7 +365,7 @@
       <tstamps>f4d0e0d5-3241-4fb8-85a6-5c02939ee856</tstamps>
     </comp>
     <comp ref="J225">
-      <value>Dorabo-DB128L_5_08_2P_BKS</value>
+      <value>DB128L-5.08-2P-BK-S</value>
       <footprint>PCB_Library:1729128</footprint>
       <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
       <fields>
@@ -922,9 +922,9 @@
       <tstamps>15bb3741-e6eb-4065-a232-734049f45c81</tstamps>
     </comp>
     <comp ref="J317">
-      <value> DB128L-5.08-2P-BK-S</value>
+      <value>DB128L-5.08-2P-BK-S</value>
       <footprint>PCB_Library:1729128</footprint>
-      <datasheet>https://jlcpcb.com/partdetail/581028-XY128V_A_5_082P/C557665</datasheet>
+      <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
       <fields>
         <field name="Height">10.15</field>
         <field name="LCSC">C430601</field>
@@ -943,7 +943,7 @@
     <comp ref="J318">
       <value>DB128L-5.08-3P-BK-S</value>
       <footprint>PCB_Library:XY128V-A-5.08-3P</footprint>
-      <datasheet>https://jlcpcb.com/partdetail/581029-XY128V_A_5_083P/C557666</datasheet>
+      <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_3P_BKS/C430602</datasheet>
       <fields>
         <field name="Height">10.15</field>
         <field name="LCSC">C430602</field>
@@ -960,7 +960,7 @@
     <comp ref="J319">
       <value>DB128L-5.08-2P-BK-S</value>
       <footprint>PCB_Library:1729128</footprint>
-      <datasheet>https://jlcpcb.com/partdetail/581028-XY128V_A_5_082P/C557665</datasheet>
+      <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
       <fields>
         <field name="Height">10.15</field>
         <field name="LCSC">C430601</field>
@@ -979,7 +979,7 @@
     <comp ref="J320">
       <value>DB128L-5.08-2P-BK-S</value>
       <footprint>PCB_Library:1729128</footprint>
-      <datasheet>https://jlcpcb.com/partdetail/581028-XY128V_A_5_082P/C557665</datasheet>
+      <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
       <fields>
         <field name="Height">10.15</field>
         <field name="LCSC">C430601</field>
@@ -1171,7 +1171,7 @@
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
-      <tstamps>7e7756cc-1505-424f-95e6-c9c8c9cc675f</tstamps>
+      <tstamps>4101c72f-fa30-42d8-b353-a6c65357fd09</tstamps>
     </comp>
     <comp ref="R6">
       <value>6.2K</value>
