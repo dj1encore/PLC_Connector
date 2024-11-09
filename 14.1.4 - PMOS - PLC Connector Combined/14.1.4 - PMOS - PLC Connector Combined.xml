@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\DATA\Dropbox\Volodyne\Volodyne Engineering\00 PCB\PLC_Connector\14.X.4 - PMOS - PLC Connector Combined\14.X.4 - PMOS - PLC Connector Combined.kicad_sch</source>
-    <date>11/6/2024 8:09:19 AM</date>
+    <source>C:\DATA\Dropbox\Volodyne\Volodyne Engineering\00 PCB\PLC_Connector\14.1.4 - PMOS - PLC Connector Combined\14.1.4 - PMOS - PLC Connector Combined.kicad_sch</source>
+    <date>11/9/2024 9:43:21 AM</date>
     <tool>Eeschema 7.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -10,7 +10,7 @@
         <company/>
         <rev/>
         <date/>
-        <source>14.X.4 - PMOS - PLC Connector Combined.kicad_sch</source>
+        <source>14.1.4 - PMOS - PLC Connector Combined.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -489,7 +489,7 @@
       <property name="ki_description" value="Light emitting diode"/>
       <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
-      <tstamps>ae00edb0-0a3e-4fa0-9d7f-b45e7e0bf39a</tstamps>
+      <tstamps>43e5ae2b-e015-483b-a01b-98451ca9e1f6</tstamps>
     </comp>
     <comp ref="D2">
       <value>LED WHITE</value>
@@ -546,76 +546,196 @@
       <tstamps>80363710-a747-4a56-ab3d-293ffec42023</tstamps>
     </comp>
     <comp ref="D5">
-      <value>SM4007</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf</datasheet>
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
       <fields>
-        <field name="LCSC">C64898</field>
-        <field name="MAX_TEMP">150 C</field>
+        <field name="LCSC">C358488</field>
       </fields>
-      <libsource lib="Diode" part="SM4007" description="1000V 1A General Purpose Rectifier Diode, MELF"/>
-      <property name="LCSC" value="C64898"/>
-      <property name="MAX_TEMP" value="150 C"/>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
       <property name="Sheetname" value="12.2.1.a"/>
       <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
-      <property name="ki_description" value="1000V 1A General Purpose Rectifier Diode, MELF"/>
-      <property name="ki_keywords" value="diode"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
       <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
-      <tstamps>76b3dd95-ed84-407f-9502-adf29b5f2ba2</tstamps>
+      <tstamps>aeff169e-3109-48f0-89d8-744bfd1bf7e7</tstamps>
     </comp>
     <comp ref="D6">
-      <value>SM4007</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf</datasheet>
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
       <fields>
-        <field name="LCSC">C64898</field>
-        <field name="MAX_TEMP">150 C</field>
+        <field name="LCSC">C358488</field>
       </fields>
-      <libsource lib="Diode" part="SM4007" description="1000V 1A General Purpose Rectifier Diode, MELF"/>
-      <property name="LCSC" value="C64898"/>
-      <property name="MAX_TEMP" value="150 C"/>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
       <property name="Sheetname" value="12.2.1.a"/>
       <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
-      <property name="ki_description" value="1000V 1A General Purpose Rectifier Diode, MELF"/>
-      <property name="ki_keywords" value="diode"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
       <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
-      <tstamps>c60c4b19-254e-4120-a6e6-c112cf99eca9</tstamps>
+      <tstamps>2a7f8166-435e-4636-8521-f80b5f27847f</tstamps>
     </comp>
     <comp ref="D7">
-      <value>SM4007</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf</datasheet>
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
       <fields>
-        <field name="LCSC">C64898</field>
-        <field name="MAX_TEMP">150 C</field>
+        <field name="LCSC">C358488</field>
       </fields>
-      <libsource lib="Diode" part="SM4007" description="1000V 1A General Purpose Rectifier Diode, MELF"/>
-      <property name="LCSC" value="C64898"/>
-      <property name="MAX_TEMP" value="150 C"/>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
       <property name="Sheetname" value="12.2.1.a"/>
       <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
-      <property name="ki_description" value="1000V 1A General Purpose Rectifier Diode, MELF"/>
-      <property name="ki_keywords" value="diode"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
       <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
-      <tstamps>83d1df8e-9d65-4f5a-a547-b60122e99811</tstamps>
+      <tstamps>86a04d71-09b9-49a6-8a66-6a59bab85c6a</tstamps>
     </comp>
     <comp ref="D8">
-      <value>SM4007</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf</datasheet>
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
       <fields>
-        <field name="LCSC">C64898</field>
-        <field name="MAX_TEMP">150 C</field>
+        <field name="LCSC">C358488</field>
       </fields>
-      <libsource lib="Diode" part="SM4007" description="1000V 1A General Purpose Rectifier Diode, MELF"/>
-      <property name="LCSC" value="C64898"/>
-      <property name="MAX_TEMP" value="150 C"/>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
       <property name="Sheetname" value="12.2.1.a"/>
       <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
-      <property name="ki_description" value="1000V 1A General Purpose Rectifier Diode, MELF"/>
-      <property name="ki_keywords" value="diode"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
       <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
-      <tstamps>b3093a42-891c-411f-b9bb-49430dbf2f25</tstamps>
+      <tstamps>aa45ecc5-0fec-4ab5-b4f0-5765462390a0</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>0b039b2f-b869-4ebc-97e9-9f6467dea320</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>18981eb8-c828-46bd-8a4a-542bcbd60f71</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>bca857c6-5c69-43e6-b25f-0b4d04be86b3</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>ffdd3ef4-f597-4a19-9dd7-f624808fac92</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>a2f19a71-eaba-40ac-9e68-88f5d7119c11</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>9440acde-5023-4d04-82a2-0f3f8c0a2a7e</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>e9977353-f162-44e2-96aa-947b362b4f2d</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>f9b82002-3d8d-4bb6-a6e0-dcf84148cb5c</tstamps>
     </comp>
     <comp ref="D301">
       <value>SS34</value>
@@ -664,70 +784,6 @@
       <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
       <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
       <tstamps>f05acdec-78dd-4ae4-b469-196897576a8d</tstamps>
-    </comp>
-    <comp ref="D305">
-      <value>BAT54C</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1811141223_Nexperia-BAT54C-215_C37704.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C37704</field>
-        <field name="MAX_TEMP">150 C</field>
-      </fields>
-      <libsource lib="PCB_Library" part="BAT54C" description=""/>
-      <property name="LCSC" value="C37704"/>
-      <property name="MAX_TEMP" value="150 C"/>
-      <property name="Sheetname" value="12.2.1.a"/>
-      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
-      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
-      <tstamps>f68eb441-ed83-4b56-920d-da7b8ebefdeb</tstamps>
-    </comp>
-    <comp ref="D306">
-      <value>BAT54C</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1811141223_Nexperia-BAT54C-215_C37704.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C37704</field>
-        <field name="MAX_TEMP">150 C</field>
-      </fields>
-      <libsource lib="PCB_Library" part="BAT54C" description=""/>
-      <property name="LCSC" value="C37704"/>
-      <property name="MAX_TEMP" value="150 C"/>
-      <property name="Sheetname" value="12.2.1.a"/>
-      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
-      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
-      <tstamps>40d0c26b-4dbd-4351-8934-1949f4fb501f</tstamps>
-    </comp>
-    <comp ref="D307">
-      <value>BAT54C</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1811141223_Nexperia-BAT54C-215_C37704.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C37704</field>
-        <field name="MAX_TEMP">150 C</field>
-      </fields>
-      <libsource lib="PCB_Library" part="BAT54C" description=""/>
-      <property name="LCSC" value="C37704"/>
-      <property name="MAX_TEMP" value="150 C"/>
-      <property name="Sheetname" value="12.2.1.a"/>
-      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
-      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
-      <tstamps>36515291-fe1a-4c93-b913-89ac3a4dfda1</tstamps>
-    </comp>
-    <comp ref="D308">
-      <value>BAT54C</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1811141223_Nexperia-BAT54C-215_C37704.pdf</datasheet>
-      <fields>
-        <field name="LCSC">C37704</field>
-        <field name="MAX_TEMP">150 C</field>
-      </fields>
-      <libsource lib="PCB_Library" part="BAT54C" description=""/>
-      <property name="LCSC" value="C37704"/>
-      <property name="MAX_TEMP" value="150 C"/>
-      <property name="Sheetname" value="12.2.1.a"/>
-      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
-      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
-      <tstamps>dcee518b-b93e-445b-b05d-007968cba840</tstamps>
     </comp>
     <comp ref="D309">
       <value>SS34</value>
@@ -1099,7 +1155,7 @@
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
-      <tstamps>6dcec2ae-183f-4e19-9563-7d521ceb0c49</tstamps>
+      <tstamps>d993db2f-93ae-45e8-87a6-ecff54ae0be0</tstamps>
     </comp>
     <comp ref="R2">
       <value>6.2K</value>
@@ -1539,19 +1595,17 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Diode" part="SM4007">
-      <description>1000V 1A General Purpose Rectifier Diode, MELF</description>
-      <docs>http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf</docs>
+    <libpart lib="Diode" part="BAT54J">
+      <description>30V 200mA Schottky diode, SOD-323F</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/BAT54J.pdf</docs>
       <footprints>
-        <fp>D*MELF*</fp>
+        <fp>D*SOD?323F*</fp>
       </footprints>
       <fields>
         <field name="Reference">D</field>
-        <field name="Value">SM4007</field>
-        <field name="Footprint">Diode_SMD:D_MELF</field>
-        <field name="Datasheet">http://cdn-reichelt.de/documents/datenblatt/A400/SMD1N400%23DIO.pdf</field>
-        <field name="Sim.Device">D</field>
-        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Value">BAT54J</field>
+        <field name="Footprint">Diode_SMD:D_SOD-323F</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/BAT54J.pdf</field>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
@@ -1594,18 +1648,6 @@
         <pin num="2" name="2" type="unspecified"/>
         <pin num="3" name="3" type="unspecified"/>
         <pin num="4" name="4" type="unspecified"/>
-      </pins>
-    </libpart>
-    <libpart lib="PCB_Library" part="BAT54C">
-      <fields>
-        <field name="Reference">D</field>
-        <field name="Value">BAT54C</field>
-        <field name="Footprint">Footprints:SOT23-R</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-        <pin num="3" name="" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="PCB_Library" part="BSS308PEH6327XTSA1">
@@ -1703,7 +1745,7 @@
       <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Diode.kicad_sym</uri>
     </library>
     <library logical="PCB_Library">
-      <uri>C:\DATA\Dropbox\Volodyne\Volodyne Engineering\00 PCB\PLC_Connector\14.X.4 - PMOS - PLC Connector Combined/PCB_Library.kicad_sym</uri>
+      <uri>C:\DATA\Dropbox\Volodyne\Volodyne Engineering\00 PCB\PLC_Connector\14.1.4 - PMOS - PLC Connector Combined/PCB_Library.kicad_sym</uri>
     </library>
     <library logical="Transistor_FET">
       <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
@@ -1711,17 +1753,13 @@
   </libraries>
   <nets>
     <net code="1" name="GNDPWR">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D301" pin="2" pintype="passive"/>
       <node ref="D302" pin="2" pintype="passive"/>
       <node ref="D303" pin="2" pintype="passive"/>
-      <node ref="D305" pin="1" pintype="passive"/>
-      <node ref="D305" pin="2" pintype="passive"/>
-      <node ref="D306" pin="1" pintype="passive"/>
-      <node ref="D306" pin="2" pintype="passive"/>
-      <node ref="D307" pin="1" pintype="passive"/>
-      <node ref="D307" pin="2" pintype="passive"/>
-      <node ref="D308" pin="1" pintype="passive"/>
-      <node ref="D308" pin="2" pintype="passive"/>
       <node ref="D309" pin="2" pintype="passive"/>
       <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
@@ -1763,155 +1801,163 @@
     </net>
     <net code="3" name="Net-(D1-A)">
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D307" pin="3" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D309" pin="1" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="J318" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="J321" pin="1" pinfunction="1" pintype="unspecified"/>
-      <node ref="U1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U1" pin="3" pinfunction="3" pintype="unspecified"/>
     </net>
     <net code="4" name="Net-(D1-K)">
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R9" pin="2" pintype="passive"/>
     </net>
-    <net code="5" name="Net-(D2-A)">
-      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D301" pin="1" pintype="passive"/>
-      <node ref="D308" pin="3" pintype="passive"/>
-      <node ref="J317" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="J321" pin="2" pinfunction="2" pintype="unspecified"/>
-      <node ref="U2" pin="2" pinfunction="2" pintype="unspecified"/>
-    </net>
-    <net code="6" name="Net-(D2-K)">
+    <net code="5" name="Net-(D2-K)">
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R10" pin="2" pintype="passive"/>
     </net>
-    <net code="7" name="Net-(D3-A)">
-      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D303" pin="1" pintype="passive"/>
-      <node ref="D305" pin="3" pintype="passive"/>
-      <node ref="J319" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="J321" pin="4" pinfunction="4" pintype="unspecified"/>
-      <node ref="U4" pin="2" pinfunction="2" pintype="unspecified"/>
-    </net>
-    <net code="8" name="Net-(D3-K)">
+    <net code="6" name="Net-(D3-K)">
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R11" pin="2" pintype="passive"/>
     </net>
-    <net code="9" name="Net-(D4-A)">
-      <node ref="D302" pin="1" pintype="passive"/>
-      <node ref="D306" pin="3" pintype="passive"/>
-      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J320" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="J321" pin="3" pinfunction="3" pintype="unspecified"/>
-      <node ref="U3" pin="2" pinfunction="2" pintype="unspecified"/>
-    </net>
-    <net code="10" name="Net-(D4-K)">
+    <net code="7" name="Net-(D4-K)">
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R12" pin="1" pintype="passive"/>
     </net>
-    <net code="11" name="Net-(D5-K)">
+    <net code="8" name="Net-(D5-K)">
       <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="Q4" pin="3" pinfunction="D" pintype="passive"/>
       <node ref="R17" pin="1" pintype="passive"/>
     </net>
-    <net code="12" name="Net-(D6-K)">
+    <net code="9" name="Net-(D6-K)">
       <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="Q3" pin="3" pinfunction="D" pintype="passive"/>
       <node ref="R20" pin="2" pintype="passive"/>
     </net>
-    <net code="13" name="Net-(D7-K)">
+    <net code="10" name="Net-(D7-K)">
       <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
       <node ref="R18" pin="2" pintype="passive"/>
     </net>
-    <net code="14" name="Net-(D8-K)">
+    <net code="11" name="Net-(D8-K)">
       <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
       <node ref="R19" pin="2" pintype="passive"/>
     </net>
-    <net code="15" name="Net-(J201-Pin_1)">
-      <node ref="J201" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J211" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J224" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="R201" pin="1" pintype="passive"/>
+    <net code="12" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D301" pin="1" pintype="passive"/>
+      <node ref="J317" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J321" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U2" pin="3" pinfunction="3" pintype="unspecified"/>
     </net>
-    <net code="16" name="Net-(J202-Pin_1)">
-      <node ref="J202" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J212" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J224" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="R202" pin="2" pintype="passive"/>
-    </net>
-    <net code="17" name="Net-(J203-Pin_1)">
-      <node ref="J203" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J213" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J221" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="J226" pin="4" pinfunction="4" pintype="unspecified"/>
-    </net>
-    <net code="18" name="Net-(J204-Pin_1)">
-      <node ref="J204" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J214" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J221" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J226" pin="3" pinfunction="3" pintype="unspecified"/>
-    </net>
-    <net code="19" name="Net-(J205-Pin_1)">
-      <node ref="J205" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J215" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J222" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="J226" pin="2" pinfunction="2" pintype="unspecified"/>
-    </net>
-    <net code="20" name="Net-(J206-Pin_1)">
-      <node ref="J206" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J216" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J222" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J226" pin="1" pinfunction="1" pintype="unspecified"/>
-    </net>
-    <net code="21" name="Net-(J207-Pin_1)">
-      <node ref="J207" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J217" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J225" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="R203" pin="1" pintype="passive"/>
-    </net>
-    <net code="22" name="Net-(J208-Pin_1)">
-      <node ref="J208" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J218" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J225" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="R204" pin="2" pintype="passive"/>
-    </net>
-    <net code="23" name="Net-(J210-Pin_1)">
-      <node ref="J210" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J220" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J223" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="24" name="Net-(J302-Pin_1)">
-      <node ref="J302" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J308" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="R8" pin="1" pintype="passive"/>
-    </net>
-    <net code="25" name="Net-(J304-Pin_1)">
-      <node ref="J304" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J310" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="R4" pin="1" pintype="passive"/>
-    </net>
-    <net code="26" name="Net-(J306-Pin_1)">
-      <node ref="J306" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J312" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="R21" pin="1" pintype="passive"/>
-    </net>
-    <net code="27" name="Net-(J314-Pin_1)">
-      <node ref="J314" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J316" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="R5" pin="1" pintype="passive"/>
-    </net>
-    <net code="28" name="Net-(J318-Pad1)">
+    <net code="13" name="Net-(D10-K)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J318" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
       <node ref="R7" pin="2" pintype="passive"/>
-      <node ref="U1" pin="3" pinfunction="3" pintype="unspecified"/>
-      <node ref="U2" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="U1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U3" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U4" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="14" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D302" pin="1" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J320" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J321" pin="3" pinfunction="3" pintype="unspecified"/>
       <node ref="U3" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="15" name="Net-(D12-K)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D303" pin="1" pintype="passive"/>
+      <node ref="J319" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J321" pin="4" pinfunction="4" pintype="unspecified"/>
       <node ref="U4" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="16" name="Net-(J201-Pin_1)">
+      <node ref="J201" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J211" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J224" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R201" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(J202-Pin_1)">
+      <node ref="J202" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J212" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J224" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R202" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(J203-Pin_1)">
+      <node ref="J203" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J213" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J221" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J226" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="19" name="Net-(J204-Pin_1)">
+      <node ref="J204" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J214" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J221" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J226" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="20" name="Net-(J205-Pin_1)">
+      <node ref="J205" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J215" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J222" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J226" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="21" name="Net-(J206-Pin_1)">
+      <node ref="J206" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J216" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J222" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J226" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="22" name="Net-(J207-Pin_1)">
+      <node ref="J207" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J217" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J225" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R203" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(J208-Pin_1)">
+      <node ref="J208" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J218" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J225" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R204" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(J210-Pin_1)">
+      <node ref="J210" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J220" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J223" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(J302-Pin_1)">
+      <node ref="J302" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J308" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(J304-Pin_1)">
+      <node ref="J304" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J310" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(J306-Pin_1)">
+      <node ref="J306" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J312" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(J314-Pin_1)">
+      <node ref="J314" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J316" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
     </net>
     <net code="29" name="Net-(Q1-G)">
       <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
