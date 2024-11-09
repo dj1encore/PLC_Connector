@@ -409,7 +409,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "14.X.4 - PMOS - PLC Connector Combined.kicad_pro",
+    "filename": "14.1.4 - PMOS - PLC Connector Combined.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -445,7 +445,7 @@
       "idf": "",
       "netlist": "./",
       "specctra_dsn": "",
-      "step": "14.X.4 - PMOS - PLC Connector Combined.step",
+      "step": "14.1.4 - PMOS - PLC Connector Combined.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
