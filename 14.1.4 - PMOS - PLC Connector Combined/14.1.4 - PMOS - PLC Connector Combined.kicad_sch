@@ -19,7 +19,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37" (page "3"))
       )
     )
@@ -36,7 +36,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37" (page "2"))
       )
     )

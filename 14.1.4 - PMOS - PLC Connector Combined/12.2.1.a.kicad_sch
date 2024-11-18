@@ -1417,9 +1417,6 @@
   (junction (at 176.53 34.29) (diameter 0) (color 0 0 0 0)
     (uuid 2bdf7ae1-1971-453c-afee-aeb834778a4a)
   )
-  (junction (at 124.46 175.26) (diameter 0) (color 0 0 0 0)
-    (uuid 2cb3528f-b81e-4fde-911e-3be71cfd30b2)
-  )
   (junction (at 125.73 16.51) (diameter 0) (color 0 0 0 0)
     (uuid 2dc0554d-52dd-40c2-8112-515b7c6b1483)
   )
@@ -1429,17 +1426,20 @@
   (junction (at 191.77 142.24) (diameter 0) (color 0 0 0 0)
     (uuid 317f3d6b-a4b0-46f3-bd75-3fc614ab9065)
   )
-  (junction (at 124.46 82.55) (diameter 0) (color 0 0 0 0)
-    (uuid 352ca51f-8a98-453c-8503-e12f5ae81aa6)
-  )
   (junction (at 182.88 16.51) (diameter 0) (color 0 0 0 0)
     (uuid 380d8fba-24ee-442a-98cf-d23ba6ecb888)
+  )
+  (junction (at 124.46 177.8) (diameter 0) (color 0 0 0 0)
+    (uuid 38fb6110-8fff-49de-a535-2a34d8161fc6)
   )
   (junction (at 213.36 49.53) (diameter 0) (color 0 0 0 0)
     (uuid 3c6708e9-c8f1-4889-b45a-a0eb3da7a738)
   )
   (junction (at 237.49 133.35) (diameter 0) (color 0 0 0 0)
     (uuid 3d8b44d7-d4c5-4243-89b2-4f318b5f05e9)
+  )
+  (junction (at 172.72 148.59) (diameter 0) (color 0 0 0 0)
+    (uuid 40c4da38-4ee1-4dcd-a112-9dd0c432d896)
   )
   (junction (at 124.46 135.89) (diameter 0) (color 0 0 0 0)
     (uuid 41c63534-1dd8-411d-b20b-ec7e8cb8e70d)
@@ -1465,17 +1465,20 @@
   (junction (at 194.31 109.22) (diameter 0) (color 0 0 0 0)
     (uuid 5fa6844a-8047-45b3-8bd4-e2888a3240b3)
   )
+  (junction (at 123.19 73.66) (diameter 0) (color 0 0 0 0)
+    (uuid 60d19836-be21-435f-851c-af21e810019d)
+  )
   (junction (at 182.88 128.27) (diameter 0) (color 0 0 0 0)
     (uuid 6101ede5-3ea5-40b1-9251-64239b85cc78)
-  )
-  (junction (at 171.45 148.59) (diameter 0) (color 0 0 0 0)
-    (uuid 689df6aa-955d-4ef2-8459-2971c737c05c)
   )
   (junction (at 107.95 57.15) (diameter 0) (color 0 0 0 0)
     (uuid 6c75ffd3-d911-4d49-bd91-99271d879a77)
   )
   (junction (at 191.77 128.27) (diameter 0) (color 0 0 0 0)
     (uuid 6c9d2417-7549-454f-a4ca-be06da05a31a)
+  )
+  (junction (at 123.19 82.55) (diameter 0) (color 0 0 0 0)
+    (uuid 6d72283b-aea9-4e82-a444-a161119c8226)
   )
   (junction (at 106.68 26.67) (diameter 0) (color 0 0 0 0)
     (uuid 71939b01-6474-407c-923a-afe6cb0a8f2e)
@@ -1507,6 +1510,9 @@
   (junction (at 105.41 127) (diameter 0) (color 0 0 0 0)
     (uuid 97800057-a29a-48f7-b235-b4a463ecb2a6)
   )
+  (junction (at 124.46 167.64) (diameter 0) (color 0 0 0 0)
+    (uuid 9f890daf-a832-4683-9dac-a6b6a6516e75)
+  )
   (junction (at 213.36 29.21) (diameter 0) (color 0 0 0 0)
     (uuid a3d6d336-850b-4446-8b0d-40c2cbfc9457)
   )
@@ -1522,20 +1528,17 @@
   (junction (at 180.34 148.59) (diameter 0) (color 0 0 0 0)
     (uuid b22e0a55-110d-4d6e-96c3-e8bce4a18dc1)
   )
-  (junction (at 124.46 127) (diameter 0) (color 0 0 0 0)
-    (uuid b4951c78-2d9e-4893-a3b5-2d4e8054368c)
-  )
   (junction (at 194.31 95.25) (diameter 0) (color 0 0 0 0)
     (uuid bebc803d-392e-47a4-9459-46a505bd66c0)
-  )
-  (junction (at 124.46 166.37) (diameter 0) (color 0 0 0 0)
-    (uuid bec9165a-214b-4c38-b3ef-a4cbfca52a2c)
   )
   (junction (at 124.46 115.57) (diameter 0) (color 0 0 0 0)
     (uuid c1150593-0523-4f7e-a74b-8facdeb59af1)
   )
   (junction (at 191.77 148.59) (diameter 0) (color 0 0 0 0)
     (uuid c719f928-9bbb-40b2-bc0d-6a99cee8d334)
+  )
+  (junction (at 124.46 128.27) (diameter 0) (color 0 0 0 0)
+    (uuid c82aa320-9f9c-4f07-a145-a7c30e280b34)
   )
   (junction (at 105.41 135.89) (diameter 0) (color 0 0 0 0)
     (uuid d49385f3-b7a6-4876-8bf9-d20a6e76c369)
@@ -1558,9 +1561,6 @@
   (junction (at 187.96 95.25) (diameter 0) (color 0 0 0 0)
     (uuid ea7b15ce-a04f-4d0f-b9a7-dcbded3e0070)
   )
-  (junction (at 124.46 73.66) (diameter 0) (color 0 0 0 0)
-    (uuid f48aa5bb-18ce-4231-a113-88c29e582e9c)
-  )
   (junction (at 106.68 40.64) (diameter 0) (color 0 0 0 0)
     (uuid fa1fc667-3c13-408c-aabc-de60d41137e5)
   )
@@ -1571,6 +1571,10 @@
   (wire (pts (xy 124.46 115.57) (xy 124.46 118.11))
     (stroke (width 0) (type default))
     (uuid 01c65a4d-6c4a-4cde-8d8f-f61efe71d894)
+  )
+  (wire (pts (xy 120.65 82.55) (xy 123.19 82.55))
+    (stroke (width 0) (type default))
+    (uuid 01f5aaea-420f-449d-a760-27004285bb90)
   )
   (wire (pts (xy 176.53 29.21) (xy 176.53 34.29))
     (stroke (width 0) (type default))
@@ -1601,6 +1605,14 @@
     (stroke (width 0) (type default))
     (uuid 0981fad5-4a82-45c4-ad79-823d336c22dd)
   )
+  (wire (pts (xy 119.38 128.27) (xy 124.46 128.27))
+    (stroke (width 0) (type default))
+    (uuid 0a82b1af-f210-44e5-ac7e-877a7493f276)
+  )
+  (wire (pts (xy 124.46 125.73) (xy 124.46 128.27))
+    (stroke (width 0) (type default))
+    (uuid 0b2c749c-ccf1-4a35-ac33-d4e40cd1d899)
+  )
   (wire (pts (xy 124.46 154.94) (xy 153.67 154.94))
     (stroke (width 0) (type default))
     (uuid 0b3e5313-2952-4ad1-8ab7-1916d170f131)
@@ -1608,6 +1620,10 @@
   (wire (pts (xy 182.88 29.21) (xy 191.77 29.21))
     (stroke (width 0) (type default))
     (uuid 0c15ce82-a7f3-459c-aa0a-270165e5121f)
+  )
+  (wire (pts (xy 123.19 82.55) (xy 125.73 82.55))
+    (stroke (width 0) (type default))
+    (uuid 0c6dbdf0-602b-425f-8a44-674bf4a2e917)
   )
   (wire (pts (xy 167.64 115.57) (xy 182.88 115.57))
     (stroke (width 0) (type default))
@@ -1654,11 +1670,7 @@
     (stroke (width 0) (type default))
     (uuid 1a3b8268-b299-41da-9174-44b1ed3c9dfc)
   )
-  (wire (pts (xy 125.73 167.64) (xy 125.73 166.37))
-    (stroke (width 0) (type default))
-    (uuid 1ae79bef-b1e3-4119-81ce-0186f08ffe13)
-  )
-  (wire (pts (xy 124.46 91.44) (xy 124.46 93.98))
+  (wire (pts (xy 120.65 91.44) (xy 120.65 93.98))
     (stroke (width 0) (type default))
     (uuid 1b164201-9922-41fa-ac08-3432eeb3410b)
   )
@@ -1678,17 +1690,17 @@
     (stroke (width 0) (type default))
     (uuid 2037ddea-7f05-4a2c-8083-185b4b2cbd5d)
   )
+  (wire (pts (xy 172.72 148.59) (xy 180.34 148.59))
+    (stroke (width 0) (type default))
+    (uuid 203c13c7-a0d6-4306-854b-01a3624a3109)
+  )
   (wire (pts (xy 153.67 148.59) (xy 153.67 154.94))
     (stroke (width 0) (type default))
     (uuid 203ca003-6d90-4347-8d62-866b9a190c9f)
   )
-  (wire (pts (xy 143.51 175.26) (xy 143.51 179.07))
+  (wire (pts (xy 143.51 177.8) (xy 143.51 179.07))
     (stroke (width 0) (type default))
     (uuid 22524d72-471c-4693-b962-c3695bbee420)
-  )
-  (wire (pts (xy 124.46 73.66) (xy 124.46 74.93))
-    (stroke (width 0) (type default))
-    (uuid 22657430-71b4-4240-82a1-f6b9dcb689fa)
   )
   (wire (pts (xy 110.49 77.47) (xy 110.49 83.82))
     (stroke (width 0) (type default))
@@ -1705,10 +1717,6 @@
   (wire (pts (xy 102.87 182.88) (xy 106.68 182.88))
     (stroke (width 0) (type default))
     (uuid 25320f38-5812-4b5d-acf7-46ea45de9abb)
-  )
-  (wire (pts (xy 167.64 148.59) (xy 171.45 148.59))
-    (stroke (width 0) (type default))
-    (uuid 25b45a93-a277-4fb5-972c-80add8cc331e)
   )
   (wire (pts (xy 86.36 83.82) (xy 104.14 83.82))
     (stroke (width 0) (type default))
@@ -1763,7 +1771,7 @@
     (stroke (width 0) (type default))
     (uuid 31cf6266-4139-44dc-8f96-aa011f3beb76)
   )
-  (wire (pts (xy 171.45 148.59) (xy 180.34 148.59))
+  (wire (pts (xy 167.64 148.59) (xy 172.72 148.59))
     (stroke (width 0) (type default))
     (uuid 32835cc9-7c53-4dfc-ac2f-29d1c761bccd)
   )
@@ -1871,7 +1879,7 @@
     (stroke (width 0) (type default))
     (uuid 4e1f40c6-2679-437c-860d-cd595b0b54e3)
   )
-  (wire (pts (xy 125.73 166.37) (xy 124.46 166.37))
+  (wire (pts (xy 125.73 167.64) (xy 124.46 167.64))
     (stroke (width 0) (type default))
     (uuid 4e4b8ae5-9365-4def-a76f-9b5e844abbd6)
   )
@@ -1891,6 +1899,10 @@
   (wire (pts (xy 208.28 148.59) (xy 208.28 157.48))
     (stroke (width 0) (type default))
     (uuid 55af7233-f08b-41c8-a82a-608e42a58ee9)
+  )
+  (wire (pts (xy 124.46 165.1) (xy 124.46 167.64))
+    (stroke (width 0) (type default))
+    (uuid 569a409e-5381-448e-91c2-3b7239d1f284)
   )
   (wire (pts (xy 176.53 29.21) (xy 182.88 29.21))
     (stroke (width 0) (type default))
@@ -1937,10 +1949,6 @@
     (stroke (width 0) (type default))
     (uuid 5ba46206-dbbd-41dc-8681-f5af29099bfe)
   )
-  (wire (pts (xy 124.46 134.62) (xy 124.46 135.89))
-    (stroke (width 0) (type default))
-    (uuid 5c50253c-2860-42d0-8f93-b552554cee09)
-  )
   (wire (pts (xy 213.36 26.67) (xy 226.06 26.67))
     (stroke (width 0) (type default))
     (uuid 5c992bee-539f-4046-b155-2301d91bcd02)
@@ -1979,7 +1987,7 @@
     (uuid 68496d8c-f0dc-440e-8887-72a9e51edb36)
   )
 
-  (wire (pts (xy 124.46 173.99) (xy 124.46 175.26))
+  (wire (pts (xy 124.46 176.53) (xy 124.46 177.8))
     (stroke (width 0) (type default))
     (uuid 68e6ed40-a449-4618-b1da-ae27a6d165bc)
   )
@@ -1995,6 +2003,10 @@
     (stroke (width 0) (type default))
     (uuid 6b38ba4d-8ad0-45ab-b2ae-e189b81465a9)
   )
+  (wire (pts (xy 120.65 93.98) (xy 124.46 93.98))
+    (stroke (width 0) (type default))
+    (uuid 6b72d65c-3c99-4c40-aac0-8b5ee7bf84ec)
+  )
   (wire (pts (xy 91.44 57.15) (xy 91.44 58.42))
     (stroke (width 0) (type default))
     (uuid 6cd93799-cf5b-48cb-8ccf-04c02dee2141)
@@ -2002,10 +2014,6 @@
   (wire (pts (xy 107.95 52.07) (xy 107.95 57.15))
     (stroke (width 0) (type default))
     (uuid 6d11e97b-6650-4684-9f91-7de1a61ba204)
-  )
-  (wire (pts (xy 125.73 82.55) (xy 124.46 82.55))
-    (stroke (width 0) (type default))
-    (uuid 6d9a7210-9628-44cc-9af7-7fce9dfdecbe)
   )
   (wire (pts (xy 125.73 45.72) (xy 125.73 52.07))
     (stroke (width 0) (type default))
@@ -2052,11 +2060,15 @@
     (stroke (width 0) (type default))
     (uuid 79906181-e33e-4be9-bbef-f50ba6a97ffe)
   )
+  (wire (pts (xy 124.46 168.91) (xy 124.46 167.64))
+    (stroke (width 0) (type default))
+    (uuid 7b3f8e38-3aa5-4b8f-87bb-9a55c6aedf55)
+  )
   (wire (pts (xy 180.34 128.27) (xy 182.88 128.27))
     (stroke (width 0) (type default))
     (uuid 7e68c263-f759-4780-ab58-8b80b82938e8)
   )
-  (wire (pts (xy 124.46 73.66) (xy 167.64 73.66))
+  (wire (pts (xy 123.19 73.66) (xy 167.64 73.66))
     (stroke (width 0) (type default))
     (uuid 7f295875-5c4a-42d6-b5c9-125e52438c3c)
   )
@@ -2072,7 +2084,7 @@
     (stroke (width 0) (type default))
     (uuid 80d36714-732e-4be2-a704-865b1710fcdf)
   )
-  (wire (pts (xy 16.51 73.66) (xy 124.46 73.66))
+  (wire (pts (xy 16.51 73.66) (xy 123.19 73.66))
     (stroke (width 0) (type default))
     (uuid 8274a475-e856-43f7-8637-faad76304ce3)
   )
@@ -2256,7 +2268,7 @@
     (stroke (width 0) (type default))
     (uuid b43e4c88-a085-42d6-bb85-eb301bf4a24c)
   )
-  (wire (pts (xy 171.45 148.59) (xy 171.45 167.64))
+  (wire (pts (xy 172.72 148.59) (xy 172.72 167.64))
     (stroke (width 0) (type default))
     (uuid b638d9d0-d41b-4b49-a35a-da01baaf66a6)
   )
@@ -2284,6 +2296,14 @@
     (stroke (width 0) (type default))
     (uuid ba1e75ab-fb20-4d3e-95a1-34e3b5dfd08c)
   )
+  (wire (pts (xy 119.38 135.89) (xy 124.46 135.89))
+    (stroke (width 0) (type default))
+    (uuid bca503ca-20f3-469b-bac6-95a8e7f4c3c8)
+  )
+  (wire (pts (xy 123.19 81.28) (xy 123.19 82.55))
+    (stroke (width 0) (type default))
+    (uuid bd30043f-bbf9-4c06-a496-f636b9d264a6)
+  )
   (wire (pts (xy 90.17 147.32) (xy 90.17 148.59))
     (stroke (width 0) (type default))
     (uuid bd394a10-2231-4903-857f-6f8f77bb91ae)
@@ -2300,10 +2320,6 @@
   (wire (pts (xy 208.28 146.05) (xy 213.36 146.05))
     (stroke (width 0) (type default))
     (uuid c12617a7-bea7-4d4f-9ef1-58dcc93770d2)
-  )
-  (wire (pts (xy 124.46 125.73) (xy 124.46 127))
-    (stroke (width 0) (type default))
-    (uuid c25542ab-f367-4dd8-919d-b050d68f7136)
   )
   (wire (pts (xy 165.1 128.27) (xy 180.34 128.27))
     (stroke (width 0) (type default))
@@ -2336,10 +2352,6 @@
   (wire (pts (xy 226.06 16.51) (xy 226.06 24.13))
     (stroke (width 0) (type default))
     (uuid ce5978da-2462-460c-95a5-57f00d1bf480)
-  )
-  (wire (pts (xy 124.46 128.27) (xy 124.46 127))
-    (stroke (width 0) (type default))
-    (uuid cf9b7389-684e-43cd-b548-1a6770d10b17)
   )
   (wire (pts (xy 16.51 16.51) (xy 125.73 16.51))
     (stroke (width 0) (type default))
@@ -2397,10 +2409,6 @@
     (stroke (width 0) (type default))
     (uuid d6fbe478-372a-4cd6-8f2b-3631f4ea5e99)
   )
-  (wire (pts (xy 124.46 165.1) (xy 124.46 166.37))
-    (stroke (width 0) (type default))
-    (uuid d7254ad7-c6eb-4b80-98e7-d8819bb53aa4)
-  )
   (wire (pts (xy 107.95 57.15) (xy 118.11 57.15))
     (stroke (width 0) (type default))
     (uuid d7bf3648-9ef8-4349-90bf-5933cd11e4c8)
@@ -2413,7 +2421,7 @@
     (stroke (width 0) (type default))
     (uuid d9fb5f71-4331-48d7-aadd-23693605195d)
   )
-  (wire (pts (xy 124.46 175.26) (xy 143.51 175.26))
+  (wire (pts (xy 124.46 177.8) (xy 143.51 177.8))
     (stroke (width 0) (type default))
     (uuid da84048b-043a-43c1-ac61-a435d50fde58)
   )
@@ -2429,7 +2437,7 @@
     (stroke (width 0) (type default))
     (uuid dd10b8b3-994a-41c8-96e9-6241327a9c28)
   )
-  (wire (pts (xy 166.37 167.64) (xy 171.45 167.64))
+  (wire (pts (xy 166.37 167.64) (xy 172.72 167.64))
     (stroke (width 0) (type default))
     (uuid dd8b23d8-6f81-476b-916a-72db787f3d8c)
   )
@@ -2490,7 +2498,7 @@
     (stroke (width 0) (type default))
     (uuid f2fcac77-e061-4973-8ef6-69e3a232f136)
   )
-  (wire (pts (xy 124.46 82.55) (xy 124.46 83.82))
+  (wire (pts (xy 120.65 82.55) (xy 120.65 83.82))
     (stroke (width 0) (type default))
     (uuid f352b9c0-19c0-48ff-a266-6b0c6096ee5e)
   )
@@ -2509,10 +2517,6 @@
   (wire (pts (xy 254 129.54) (xy 261.62 129.54))
     (stroke (width 0) (type default))
     (uuid f5954e0b-4aa6-48e3-8dbb-9a4127652e76)
-  )
-  (wire (pts (xy 124.46 175.26) (xy 124.46 177.8))
-    (stroke (width 0) (type default))
-    (uuid f5ee02c9-3ceb-4444-89cc-bb069864802f)
   )
   (wire (pts (xy 88.9 40.64) (xy 106.68 40.64))
     (stroke (width 0) (type default))
@@ -2644,7 +2648,7 @@
     )
     (pin "1" (uuid 908ab177-115e-43f6-ace0-14b3976a3152))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J302") (unit 1)
         )
@@ -2669,7 +2673,7 @@
     )
     (pin "1" (uuid 4a664dc1-6ad7-4a82-ac0d-6ce5a016a5c2))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J315") (unit 1)
         )
@@ -2698,7 +2702,7 @@
     (pin "2" (uuid a2735102-8ad9-4696-8e3e-12549e88c6ad))
     (pin "1" (uuid eb92dbaa-1bd5-4884-a50e-0b4f9a15f1f2))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D9") (unit 1)
         )
@@ -2723,7 +2727,7 @@
     )
     (pin "1" (uuid 4ba274ca-6781-44d7-8771-f1c209180ac9))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR012") (unit 1)
         )
@@ -2756,7 +2760,7 @@
     (pin "3" (uuid 7b9d8166-be97-4c7c-a918-935a1894b925))
     (pin "2" (uuid a6bbccb0-05ae-4eee-a2ef-f90aff9294e7))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J318") (unit 1)
         )
@@ -2781,7 +2785,7 @@
     )
     (pin "1" (uuid 987e1d23-d51a-4651-93f5-d04e1394d234))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR014") (unit 1)
         )
@@ -2813,7 +2817,7 @@
     (pin "1" (uuid 04733f9f-2668-4f12-aebc-5579e89e5477))
     (pin "2" (uuid d341b3e9-149a-436c-b71a-f68205e6fe53))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D3") (unit 1)
         )
@@ -2838,7 +2842,7 @@
     )
     (pin "1" (uuid 12dba0e0-5370-4c7b-bd6e-9a86fb28c72e))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J316") (unit 1)
         )
@@ -2863,7 +2867,7 @@
     )
     (pin "1" (uuid b0ecdfe8-1d40-480c-8b3f-ffa42817d11e))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J303") (unit 1)
         )
@@ -2892,7 +2896,7 @@
     (pin "2" (uuid d9482a10-6b00-4a4a-a73e-c433d4aa7ed4))
     (pin "1" (uuid 7cf8e712-fefe-47e4-bed4-f024694a513d))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D10") (unit 1)
         )
@@ -2917,7 +2921,7 @@
     )
     (pin "1" (uuid 61e51d44-f566-4e52-aa64-70672ee2cc73))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J310") (unit 1)
         )
@@ -2942,7 +2946,7 @@
     )
     (pin "1" (uuid c0258e52-9ca1-484a-96f2-9be01f429e09))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR01") (unit 1)
         )
@@ -2972,7 +2976,7 @@
     (pin "2" (uuid 8a2646e9-a8f9-4b6a-827c-bdaae64cb42d))
     (pin "3" (uuid f32424a4-a126-49a4-a2de-ba24369324d7))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "U1") (unit 1)
         )
@@ -2997,7 +3001,7 @@
     )
     (pin "1" (uuid 34975550-96c1-44b1-961d-0564bd49be39))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J309") (unit 1)
         )
@@ -3026,7 +3030,7 @@
     (pin "2" (uuid a1ae71e3-9851-40cb-9efa-401212706066))
     (pin "1" (uuid aeb81d6f-b32c-4eee-aded-29207d5331fa))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D6") (unit 1)
         )
@@ -3058,7 +3062,7 @@
     (pin "1" (uuid 7f964347-137f-47b8-a3c5-40ec589e5719))
     (pin "2" (uuid b6df6110-dc60-451c-bcf4-67560ed3f6f1))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R9") (unit 1)
         )
@@ -3088,7 +3092,7 @@
     (pin "2" (uuid d7b39d1e-bd48-4a60-8290-1c2cdafbcb84))
     (pin "3" (uuid 9b84b335-ec3f-413d-8dfc-c137b7238f37))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "U3") (unit 1)
         )
@@ -3113,7 +3117,7 @@
     )
     (pin "1" (uuid fe22d32e-2f1b-4706-a52f-db92b00bd3e0))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR011") (unit 1)
         )
@@ -3138,7 +3142,7 @@
     )
     (pin "1" (uuid b2e799c9-0c3a-48e3-a69a-59280eb59c08))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR04") (unit 1)
         )
@@ -3146,31 +3150,31 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 124.46 130.81 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 119.38 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3537b98f-7ef6-491d-9be1-0709d96788e2)
-    (property "Reference" "R18" (at 127 129.54 0)
+    (property "Reference" "R18" (at 121.92 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "6.2K" (at 127 132.08 0)
+    (property "Value" "6.2K" (at 121.92 133.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 122.682 130.81 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 117.602 132.08 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260" (at 124.46 130.81 0)
+    (property "Datasheet" "https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260" (at 119.38 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C4260" (at 124.46 130.81 90)
+    (property "LCSC" "C4260" (at 119.38 132.08 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MAX_TEMP" "155 C" (at 124.46 130.81 0)
+    (property "MAX_TEMP" "155 C" (at 119.38 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 046d2b34-c3fd-4a10-a388-0d1733a376e1))
     (pin "2" (uuid 37fde6dd-3153-4c34-a70e-e658c2a4508d))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R18") (unit 1)
         )
@@ -3195,7 +3199,7 @@
     )
     (pin "1" (uuid fd1e7c62-b166-4ab3-acb9-94514c5df27d))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR019") (unit 1)
         )
@@ -3220,7 +3224,7 @@
     )
     (pin "1" (uuid 02c30e77-830a-4e96-8ee1-43d84c79da4c))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J306") (unit 1)
         )
@@ -3252,7 +3256,7 @@
     (pin "1" (uuid 74a6cd59-e857-4291-bcdd-3bf11f6c16d1))
     (pin "2" (uuid 880f915b-1853-40e3-9048-e5ef464c27ba))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R5") (unit 1)
         )
@@ -3277,7 +3281,7 @@
     )
     (pin "1" (uuid bfd7861b-5338-4bfc-991f-59eeacecff94))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J301") (unit 1)
         )
@@ -3309,7 +3313,7 @@
     (pin "1" (uuid f145d06a-1303-4696-8f77-21b0cadc2f0a))
     (pin "2" (uuid 940232a4-7b44-42b5-80ea-9d966c89a3f6))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D1") (unit 1)
         )
@@ -3334,7 +3338,7 @@
     )
     (pin "1" (uuid 3134bace-4800-4b9a-800e-be7a02537107))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR05") (unit 1)
         )
@@ -3359,7 +3363,7 @@
     )
     (pin "1" (uuid 2df67b2d-eed1-43c5-81e8-1f058476985f))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR010") (unit 1)
         )
@@ -3391,7 +3395,7 @@
     (pin "2" (uuid 63391d1e-65e8-48b7-8f9c-4cead45429b4))
     (pin "1" (uuid 55a1f756-3169-4ea0-b9fc-75ef3f8eaa4a))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D309") (unit 1)
         )
@@ -3416,7 +3420,7 @@
     )
     (pin "1" (uuid 65efa324-0aaf-4ccc-a348-5d399be4755a))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR09") (unit 1)
         )
@@ -3448,7 +3452,7 @@
     (pin "1" (uuid 50c86576-06bd-4519-9207-c7ed1a3b3640))
     (pin "2" (uuid e7eac1ab-0ecc-43e1-acc3-47a65b5df6e8))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R13") (unit 1)
         )
@@ -3473,7 +3477,7 @@
     )
     (pin "1" (uuid 9fa5c192-45c1-49c1-b404-be7dc21695bf))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J305") (unit 1)
         )
@@ -3503,7 +3507,7 @@
     (pin "2" (uuid 978d26cc-a411-4c5f-aef8-27cc982c9e05))
     (pin "3" (uuid ed83f405-1115-4f73-96c1-df8c25ac2875))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "U2") (unit 1)
         )
@@ -3535,7 +3539,7 @@
     (pin "1" (uuid b27b4c0e-a2b2-4d24-9b6c-8b2eda252246))
     (pin "2" (uuid 9cffca5a-aab8-4af2-9b77-3ee965c0a66c))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R12") (unit 1)
         )
@@ -3560,7 +3564,7 @@
     )
     (pin "1" (uuid 79d2693f-b94f-4be9-b248-d9d5ee64a14b))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR017") (unit 1)
         )
@@ -3595,7 +3599,7 @@
     (pin "1" (uuid ad18a8c0-95a0-4a30-96d3-1b6673f368a7))
     (pin "2" (uuid e4b30904-2d57-46b5-9e7f-7adf8ede52c4))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J320") (unit 1)
         )
@@ -3620,7 +3624,7 @@
     )
     (pin "1" (uuid 0d67ba75-e520-43bd-a71d-a3b636c49487))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J312") (unit 1)
         )
@@ -3652,7 +3656,7 @@
     (pin "1" (uuid 04f8a7f8-19fb-4f67-8557-0d76f56ae76f))
     (pin "2" (uuid 07ffa816-5a62-498f-b07a-be1a949ed0f6))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R15") (unit 1)
         )
@@ -3684,7 +3688,7 @@
     (pin "1" (uuid ae8cc668-d685-4071-a3d2-478ffd60241a))
     (pin "2" (uuid a1189d77-1e04-4a66-9fe4-1dc22b0515d1))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R7") (unit 1)
         )
@@ -3692,31 +3696,31 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 124.46 78.74 180) (unit 1)
+  (symbol (lib_id "Device:R") (at 123.19 77.47 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 68016dfa-cf96-48e3-910b-bdc11a849838)
-    (property "Reference" "R3" (at 127 77.47 0)
+    (property "Reference" "R3" (at 125.73 76.2 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "6.2K" (at 127 80.01 0)
+    (property "Value" "6.2K" (at 125.73 78.74 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 126.238 78.74 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 124.968 77.47 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260" (at 124.46 78.74 0)
+    (property "Datasheet" "https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260" (at 123.19 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C4260" (at 124.46 78.74 90)
+    (property "LCSC" "C4260" (at 123.19 77.47 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MAX_TEMP" "155 C" (at 124.46 78.74 0)
+    (property "MAX_TEMP" "155 C" (at 123.19 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 61f51383-0f8e-459c-a665-80ac8921576c))
     (pin "2" (uuid bf66d472-2b0d-4463-9d46-9435ea01f0dd))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R3") (unit 1)
         )
@@ -3748,7 +3752,7 @@
     (pin "2" (uuid 7d70e8fd-ecd0-479c-bc34-09188259d831))
     (pin "1" (uuid cd558211-f419-415d-8e4e-c1f92975e958))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D301") (unit 1)
         )
@@ -3773,7 +3777,7 @@
     )
     (pin "1" (uuid 2258982e-da92-4eaa-9e35-e8d4cafae7c4))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J307") (unit 1)
         )
@@ -3804,7 +3808,7 @@
     (pin "2" (uuid 71330276-f29a-49d3-a094-4e81947e2bf2))
     (pin "1" (uuid a1cbb668-1a3b-43da-9e35-527576a97a5e))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J321") (unit 1)
         )
@@ -3812,31 +3816,31 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 124.46 170.18 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 124.46 172.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7468fcee-47c8-4751-87a6-c96e332db28a)
-    (property "Reference" "R19" (at 127 168.91 0)
+    (property "Reference" "R19" (at 127 171.45 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "6.2K" (at 127 171.45 0)
+    (property "Value" "6.2K" (at 127 173.99 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 122.682 170.18 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 122.682 172.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260" (at 124.46 170.18 0)
+    (property "Datasheet" "https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260" (at 124.46 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C4260" (at 124.46 170.18 90)
+    (property "LCSC" "C4260" (at 124.46 172.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MAX_TEMP" "155 C" (at 124.46 170.18 0)
+    (property "MAX_TEMP" "155 C" (at 124.46 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 14b44193-7d9e-4e92-a08e-410d0ef9ded9))
     (pin "2" (uuid 5f8427a1-3839-4dde-bc4d-63a33eabcc2c))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R19") (unit 1)
         )
@@ -3861,7 +3865,7 @@
     )
     (pin "1" (uuid cd720a06-23cf-4e9e-ad44-b1c51f5811db))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR0303") (unit 1)
         )
@@ -3894,7 +3898,7 @@
     (pin "2" (uuid 3b503359-300a-4555-846c-53f29404c100))
     (pin "3" (uuid 9fdcbf63-6f16-4365-a71e-c1ae898c8be3))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "Q1") (unit 1)
         )
@@ -3926,7 +3930,7 @@
     (pin "1" (uuid 2b05959c-9ced-41a8-8d82-b6bb0e80c89e))
     (pin "2" (uuid 01797a21-a468-49eb-a01b-809252dd8889))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R4") (unit 1)
         )
@@ -3958,9 +3962,39 @@
     (pin "1" (uuid eafa4c08-3235-4f6c-8d61-ae87a6da799b))
     (pin "2" (uuid 9da01b89-432d-4130-aa72-8a11652ddc31))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D4") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCB_Library:BSS308PEH6327XTSA1") (at 125.73 167.64 0) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 83b7c71b-8473-4be2-9fc5-a0b3fd1a632c)
+    (property "Reference" "U4" (at 163.83 172.72 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Value" "DMP6023LE-13" (at 162.56 176.53 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Footprint" "PCB_Library:SOT230P700X185-4N" (at 146.05 152.4 0)
+      (effects (font (size 1.27 1.27) italic) hide)
+    )
+    (property "Datasheet" "https://jlcpcb.com/partdetail/DiodesIncorporated-DMP6023LE13/C154901" (at 147.32 156.21 0)
+      (effects (font (size 1.27 1.27) italic) hide)
+    )
+    (property "LCSC" "C154901" (at 163.83 170.18 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (pin "1" (uuid 718e8b92-a8be-49b3-9825-f691535e5971))
+    (pin "2" (uuid 9116c27d-eeac-404b-af34-c655d2df043c))
+    (pin "3" (uuid 840d39d3-1a66-4be3-ace8-c6a2f1d2554e))
+    (instances
+      (project "14.1.4 - PMOS - PLC Connector Combined"
+        (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
+          (reference "U4") (unit 1)
         )
       )
     )
@@ -3987,39 +4021,9 @@
     (pin "2" (uuid 09bdb8f9-0119-4e71-bc44-d14c8a791d4f))
     (pin "1" (uuid ec1c9713-1210-4513-bf45-cfe2de556fab))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D7") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "PCB_Library:BSS308PEH6327XTSA1") (at 125.73 167.64 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 8c7024d5-b0bf-42b0-914c-753d320c47ba)
-    (property "Reference" "U4" (at 162.56 161.29 0)
-      (effects (font (size 1.524 1.524)))
-    )
-    (property "Value" "DMP6023LE-13" (at 162.56 158.75 0)
-      (effects (font (size 1.524 1.524)))
-    )
-    (property "Footprint" "PCB_Library:SOT230P700X185-4N" (at 146.05 152.4 0)
-      (effects (font (size 1.27 1.27) italic) hide)
-    )
-    (property "Datasheet" "https://jlcpcb.com/partdetail/DiodesIncorporated-DMP6023LE13/C154901" (at 147.32 156.21 0)
-      (effects (font (size 1.27 1.27) italic) hide)
-    )
-    (property "LCSC" "C154901" (at 163.83 170.18 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (pin "1" (uuid 0ee9898d-589f-42e7-8d4f-0289f346ad32))
-    (pin "2" (uuid 9160e61e-18e5-47f7-b448-b4a3bae72cc8))
-    (pin "3" (uuid e9929ac5-9409-4e25-b404-84855801da6a))
-    (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
-        (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
-          (reference "U4") (unit 1)
         )
       )
     )
@@ -4042,7 +4046,7 @@
     )
     (pin "1" (uuid 1127e19b-7b58-4629-a3b3-e6c6d7070f9e))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR02") (unit 1)
         )
@@ -4067,7 +4071,7 @@
     )
     (pin "1" (uuid d077927e-0391-4034-b05d-2c6aaa60a15e))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR08") (unit 1)
         )
@@ -4096,7 +4100,7 @@
     (pin "2" (uuid 46579be9-ca67-481b-a763-269254fc8a52))
     (pin "1" (uuid 463e9a30-cb4a-4bdf-8edc-9b7aafc6f7a4))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D14") (unit 1)
         )
@@ -4128,7 +4132,7 @@
     (pin "1" (uuid 7a484384-6200-4724-a382-c93085440e0f))
     (pin "2" (uuid e5d9fbb9-465b-40b3-8083-9fe31b07e312))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R11") (unit 1)
         )
@@ -4163,7 +4167,7 @@
     (pin "1" (uuid 4f619cf7-0b33-478b-9edd-666f49692c0b))
     (pin "2" (uuid 1e56b2e3-e0af-448a-85dd-17804589e8e1))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J319") (unit 1)
         )
@@ -4195,7 +4199,7 @@
     (pin "1" (uuid 3a942f93-f2d5-4845-8550-893d86efecfe))
     (pin "2" (uuid 7a40b4c3-348d-4ae9-9aee-9f8544c537fa))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R10") (unit 1)
         )
@@ -4220,7 +4224,7 @@
     )
     (pin "1" (uuid 31a57e9c-8f0e-4ac2-9cc2-81dfcdece160))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR0304") (unit 1)
         )
@@ -4252,7 +4256,7 @@
     (pin "1" (uuid 3563bdbc-533d-4adf-81eb-a48eefa3f987))
     (pin "2" (uuid 8d0e7072-2c21-489a-90d7-d526c3ce8881))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R14") (unit 1)
         )
@@ -4287,7 +4291,7 @@
     (pin "1" (uuid 636c149c-6f63-4a5b-9435-736801374939))
     (pin "2" (uuid 111c51aa-132e-4766-b95a-a4d8a5ee030d))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J317") (unit 1)
         )
@@ -4319,7 +4323,7 @@
     (pin "1" (uuid d79ffa28-7369-43e0-ad24-f100ea7a3932))
     (pin "2" (uuid 7f2c80c2-e0b2-4572-81a6-a9c0c53729d5))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R6") (unit 1)
         )
@@ -4352,7 +4356,7 @@
     (pin "2" (uuid c5a9b39e-c516-4a18-bc1b-3b798d9ce8bc))
     (pin "3" (uuid 815241af-73e7-4e8e-b9fb-97512ee167f6))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "Q3") (unit 1)
         )
@@ -4381,7 +4385,7 @@
     (pin "2" (uuid ea8e9f04-bc2b-4142-b3b9-3571cb77d89b))
     (pin "1" (uuid ca5141c8-1ea2-41cc-a87a-46b57c60b286))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D13") (unit 1)
         )
@@ -4406,7 +4410,7 @@
     )
     (pin "1" (uuid 06c47731-9b9c-41b7-8ab9-020ccb5e5bd1))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR013") (unit 1)
         )
@@ -4431,7 +4435,7 @@
     )
     (pin "1" (uuid 70df887e-6c83-4466-b682-2bcdfb7623bf))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J311") (unit 1)
         )
@@ -4460,7 +4464,7 @@
     (pin "2" (uuid ad158560-1d6a-4a2d-a7ce-2b624dc9d1ee))
     (pin "1" (uuid 26832438-425f-4aac-91e8-d3cbb7d87cc1))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D8") (unit 1)
         )
@@ -4489,7 +4493,7 @@
     (pin "2" (uuid d737cd2e-914f-4ce5-a412-6a79955af7a5))
     (pin "1" (uuid 39b18f43-17a2-4141-810b-df4131b30ab3))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D5") (unit 1)
         )
@@ -4514,7 +4518,7 @@
     )
     (pin "1" (uuid 7cb48dda-a149-44ff-8926-d79d441d89d3))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR0301") (unit 1)
         )
@@ -4539,7 +4543,7 @@
     )
     (pin "1" (uuid d7aaaafd-74ea-42b3-9013-1acf6dafd2ed))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR03") (unit 1)
         )
@@ -4564,7 +4568,7 @@
     )
     (pin "1" (uuid 739540fb-6f44-4073-9bd4-2671ff07aa3b))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR015") (unit 1)
         )
@@ -4589,7 +4593,7 @@
     )
     (pin "1" (uuid 8923e4a5-cb72-4087-8c45-c25affa3917d))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J308") (unit 1)
         )
@@ -4618,7 +4622,7 @@
     (pin "2" (uuid 71484d7a-3a00-40a9-ace8-7896aaacda15))
     (pin "1" (uuid 991531be-c8b1-4c2c-9aca-ab17579024b6))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D11") (unit 1)
         )
@@ -4643,7 +4647,7 @@
     )
     (pin "1" (uuid 133f70be-6c54-4e51-8191-3d42c5e37437))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J304") (unit 1)
         )
@@ -4668,7 +4672,7 @@
     )
     (pin "1" (uuid d6c7268e-b659-462a-9d28-4ccd9992d33f))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR016") (unit 1)
         )
@@ -4700,7 +4704,7 @@
     (pin "1" (uuid 19f139fc-5843-471a-9be4-9036db30b77d))
     (pin "2" (uuid 6a0a2cdc-c1c0-4b58-b0c6-48ad3a397129))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D2") (unit 1)
         )
@@ -4725,7 +4729,7 @@
     )
     (pin "1" (uuid f7aeb0e0-0171-43a6-a86c-22d3916eb91d))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR06") (unit 1)
         )
@@ -4733,31 +4737,31 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 124.46 87.63 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "Device:R") (at 120.65 87.63 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid c96b0ab0-2e98-41e6-af97-61c12d220af7)
-    (property "Reference" "R20" (at 127 86.36 0)
+    (property "Reference" "R20" (at 123.19 87.63 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "6.2K" (at 127 88.9 0)
+    (property "Value" "6.2K" (at 123.19 90.17 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 122.682 87.63 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 118.872 87.63 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260" (at 124.46 87.63 0)
+    (property "Datasheet" "https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260" (at 120.65 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C4260" (at 124.46 87.63 90)
+    (property "LCSC" "C4260" (at 120.65 87.63 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MAX_TEMP" "155 C" (at 124.46 87.63 0)
+    (property "MAX_TEMP" "155 C" (at 120.65 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 302bb490-5c1e-47bf-82f5-cdd188e4a7ca))
     (pin "2" (uuid 751cbdb7-2581-44f2-8377-20d7066ac76c))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R20") (unit 1)
         )
@@ -4782,7 +4786,7 @@
     )
     (pin "1" (uuid 010de925-8e7d-4f05-bd89-d31d72b6ae4a))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J314") (unit 1)
         )
@@ -4815,7 +4819,7 @@
     (pin "2" (uuid 855971f5-4e5f-4b24-9bb5-e8e6b55ed5dc))
     (pin "3" (uuid 5f74f10f-9618-4dda-91fb-77c76bf6be35))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "Q2") (unit 1)
         )
@@ -4847,7 +4851,7 @@
     (pin "1" (uuid b360e53f-2df0-4153-8d30-edd2971279f0))
     (pin "2" (uuid 028e5698-7c04-47fb-8001-c5488fcb541f))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R1") (unit 1)
         )
@@ -4872,7 +4876,7 @@
     )
     (pin "1" (uuid f3f85704-a558-4a96-ba7a-3256f39a7118))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR020") (unit 1)
         )
@@ -4904,7 +4908,7 @@
     (pin "2" (uuid 854a4654-0f09-4c4a-8d03-3e510f1a8ff9))
     (pin "1" (uuid f31bcf81-2c81-4076-9e58-b44d5515e721))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D302") (unit 1)
         )
@@ -4936,7 +4940,7 @@
     (pin "1" (uuid 992cfcc6-7e14-4b5f-947d-e3f0df756e75))
     (pin "2" (uuid c0845cba-02d4-4595-b86c-d1a24d566e82))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R17") (unit 1)
         )
@@ -4968,7 +4972,7 @@
     (pin "1" (uuid 277e9f70-c74a-46ee-8a98-e3e272321878))
     (pin "2" (uuid dd1e06e2-6e27-4448-9b8b-91cedf1f1b03))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R2") (unit 1)
         )
@@ -5001,7 +5005,7 @@
     (pin "2" (uuid 078088be-f98f-4b05-a070-01907d863bde))
     (pin "3" (uuid 4b3b42fd-f399-4e6b-ab0f-9574565cb627))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "Q4") (unit 1)
         )
@@ -5026,7 +5030,7 @@
     )
     (pin "1" (uuid 7132f967-8172-4ff0-838e-f1adde04df07))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "J313") (unit 1)
         )
@@ -5055,7 +5059,7 @@
     (pin "2" (uuid 4691ed22-6113-48ba-8811-91b35315e87c))
     (pin "1" (uuid 37ef3770-83ec-47ec-a188-4f792b150944))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D15") (unit 1)
         )
@@ -5080,7 +5084,7 @@
     )
     (pin "1" (uuid 559e1bad-7c31-4863-839e-dfe78d5c2e36))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR018") (unit 1)
         )
@@ -5112,7 +5116,7 @@
     (pin "2" (uuid fe64949e-37ac-48d2-991e-ba01db891930))
     (pin "1" (uuid e8164663-a781-4fce-a8f2-29c4a58e0f67))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D303") (unit 1)
         )
@@ -5144,7 +5148,7 @@
     (pin "1" (uuid 20611020-ac69-4a84-b5ca-10e4a6826d62))
     (pin "2" (uuid fc536cae-3ee3-44f6-836c-b75904ea2b7f))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R21") (unit 1)
         )
@@ -5176,7 +5180,7 @@
     (pin "1" (uuid a06bf7a9-b5ee-4a85-a88e-026ab64fbedc))
     (pin "2" (uuid 74597daf-9211-49d1-a80c-dfe53b868eba))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "R8") (unit 1)
         )
@@ -5205,7 +5209,7 @@
     (pin "2" (uuid 85aad874-7aec-420e-bd10-81da54f05937))
     (pin "1" (uuid 2f5376fa-6539-44c7-85b5-f1f20bac7b97))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D16") (unit 1)
         )
@@ -5230,7 +5234,7 @@
     )
     (pin "1" (uuid c009f228-8068-4c95-9962-c4e7d453ebb4))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "#PWR07") (unit 1)
         )
@@ -5259,7 +5263,7 @@
     (pin "2" (uuid 9825e76a-5370-4ec1-beda-8b97df882770))
     (pin "1" (uuid 0d3bea9e-7bfd-4d13-b92a-3e1a7d65fdcb))
     (instances
-      (project "14.X.4 - PMOS - PLC Connector Combined"
+      (project "14.1.4 - PMOS - PLC Connector Combined"
         (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37/3ad252d7-f965-499a-9026-c68aa870c5d8"
           (reference "D12") (unit 1)
         )

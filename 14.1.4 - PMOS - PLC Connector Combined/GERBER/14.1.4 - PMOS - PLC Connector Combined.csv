@@ -1,4 +1,4 @@
-#,designator,Qty,comment,Footprint,DNP,LCSC
+#,designator,Qty,Value,Footprint,DNP,LCSC
 1,"D1, D2, D3, D4",4,LED WHITE,LED_SMD:LED_0603_1608Metric,,C2290
 2,"D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16",12,BAT54J,Diode_SMD:D_SOD-323F,,C358488
 3,"D301, D302, D303, D309",4,SS34,Diode_SMD:D_SMA,,C8678

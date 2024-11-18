@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\DATA\Dropbox\Volodyne\Volodyne Engineering\00 PCB\PLC_Connector\14.1.4 - PMOS - PLC Connector Combined\14.1.4 - PMOS - PLC Connector Combined.kicad_sch</source>
-    <date>11/9/2024 9:43:21 AM</date>
+    <date>11/17/2024 6:13:09 PM</date>
     <tool>Eeschema 7.0.11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1557,7 +1557,7 @@
       <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
       <property name="ki_keywords" value="BSS308PEH6327XTSA1"/>
       <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
-      <tstamps>8c7024d5-b0bf-42b0-914c-753d320c47ba</tstamps>
+      <tstamps>83b7c71b-8473-4be2-9fc5-a0b3fd1a632c</tstamps>
     </comp>
   </components>
   <libparts>
