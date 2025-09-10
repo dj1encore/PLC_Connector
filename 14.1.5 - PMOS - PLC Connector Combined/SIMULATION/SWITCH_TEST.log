@@ -1,11 +1,11 @@
 LTspice 24.0.12 for Windows
-Circuit: * C:\DATA\Dropbox\Volodyne\Volodyne Engineering\00 PCB\PLC_Connector\14.X.4 - PMOS - PLC Connector Combined\SIMULATION\SWITCH_TEST.asc
-Start Time: Tue Nov  5 17:45:33 2024
+Circuit: * C:\DATA\Dropbox\Volodyne\Volodyne Engineering\00 PCB\PLC_Connector\14.1.5 - PMOS - PLC Connector Combined\SIMULATION\SWITCH_TEST.asc
+Start Time: Thu Mar 13 13:45:12 2025
 solver = Normal
 Maximum thread count: 16
 tnom = 27
 temp = 27
 method = modified trap
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.282 seconds.
+Total elapsed time: 0.257 seconds.
 

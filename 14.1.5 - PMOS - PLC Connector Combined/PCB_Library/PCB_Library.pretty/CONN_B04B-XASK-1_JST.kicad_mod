@@ -48,7 +48,7 @@
   (pad "2" thru_hole circle (at -2.5 0) (size 1.4986 1.4986) (drill 0.9906) (layers "*.Cu" "*.Mask") (tstamp f682660c-b87e-4118-b132-144f414d7e93))
   (pad "3" thru_hole circle (at -5 0) (size 1.4986 1.4986) (drill 0.9906) (layers "*.Cu" "*.Mask") (tstamp 1f6e4b25-3f3a-413a-9929-bd8a0412015f))
   (pad "4" thru_hole circle (at -7.5 0) (size 1.4986 1.4986) (drill 0.9906) (layers "*.Cu" "*.Mask") (tstamp a5ea9363-52b7-44a2-a9da-2ffa810a6707))
-  (model "C:/DATA/Dropbox/Volodyne/Volodyne Engineering/00 PCB/12.2.0 - PLC Connector/3D Model/User Library-B04B-XASK-1-1.step"
+  (model "${KIPRJMOD}/3D Model/User Library-B04B-XASK-1-1.step"
     (offset (xyz -3.75 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
