@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1759017
+PartCategory=Connector
+PackageCategory=Header, Shrouded - Right Angle PTH Box
+PinCount=2
+Version=5.1
+Released=2017-05-18 08:59:34
+Downloaded=2024-07-04 14:24:34
+3D=Y

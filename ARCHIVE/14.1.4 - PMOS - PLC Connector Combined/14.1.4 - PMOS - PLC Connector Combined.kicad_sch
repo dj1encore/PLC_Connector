@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e8fde896-61e0-40a5-97a7-fcbe64987e37)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 156.21 58.42) (size 109.22 52.07) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3ad252d7-f965-499a-9026-c68aa870c5d8)
+    (property "Sheetname" "12.2.1.a" (at 156.21 57.7084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "12.2.1.a.kicad_sch" (at 156.21 111.0746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "14.1.4 - PMOS - PLC Connector Combined"
+        (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 39.37 58.42) (size 107.95 53.34) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d99484f6-da92-42b0-b2f9-f368838f5eb8)
+    (property "Sheetname" "12.1.1.a" (at 39.37 57.7084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "12.1.1.a.kicad_sch" (at 39.37 112.3446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "14.1.4 - PMOS - PLC Connector Combined"
+        (path "/e8fde896-61e0-40a5-97a7-fcbe64987e37" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

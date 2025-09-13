@@ -1,0 +1,2030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\DATA\Dropbox\Volodyne\Volodyne Engineering\00 PCB\PLC_Connector\14.1.6 - PMOS - PLC Connector Combined\14.1.6 - PMOS - PLC Connector Combined.kicad_sch</source>
+    <date>7/3/2025 12:21:31 PM</date>
+    <tool>Eeschema 7.0.11</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company>Volodune LLC</company>
+        <rev>14.1.6</rev>
+        <date/>
+        <source>14.1.6 - PMOS - PLC Connector Combined.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/">
+      <title_block>
+        <title>PLC INPUTS</title>
+        <company>Volodune LLC</company>
+        <rev>14.1.6</rev>
+        <date/>
+        <source>12.1.1.a.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/">
+      <title_block>
+        <title>PLC OUTPUTS (P-MOS)</title>
+        <company>Volodune LLC</company>
+        <rev>14.1.6</rev>
+        <date/>
+        <source>12.2.1.a.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J201">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>0ec8f487-275f-46f0-81ab-7ca4b145197c</tstamps>
+    </comp>
+    <comp ref="J202">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>342e6240-d60a-4f13-b0d0-67f58149d496</tstamps>
+    </comp>
+    <comp ref="J203">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>bd194dde-a257-43db-9863-d9f07ed0f5ab</tstamps>
+    </comp>
+    <comp ref="J204">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>a5ee43a3-5a9e-4a1b-9666-78ac39532a05</tstamps>
+    </comp>
+    <comp ref="J205">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>0b992008-09ee-46b2-8c69-432d0f60dab5</tstamps>
+    </comp>
+    <comp ref="J206">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>d6175df3-a2d0-4a01-9a9d-36d27f806599</tstamps>
+    </comp>
+    <comp ref="J207">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>1727031a-e711-4d71-989b-0c6fcbc6629f</tstamps>
+    </comp>
+    <comp ref="J208">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>043cbe1b-cd89-46eb-a45f-1ded8c6fadc3</tstamps>
+    </comp>
+    <comp ref="J209">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>7487cc4d-37e7-4a23-85f6-e1b4535eec3a</tstamps>
+    </comp>
+    <comp ref="J210">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>ae113ed5-bbc5-4aeb-b94f-68274a12cc41</tstamps>
+    </comp>
+    <comp ref="J211">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>ff5fde6b-4776-49d5-89f5-009c2d307de2</tstamps>
+    </comp>
+    <comp ref="J212">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>d19b31d5-c7a3-4fc2-baee-4f7220389029</tstamps>
+    </comp>
+    <comp ref="J213">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>697764c0-7966-4cfd-80d0-4e9bbedd4526</tstamps>
+    </comp>
+    <comp ref="J214">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>c9d988be-e4ff-4840-bc29-cf0d3747fbf1</tstamps>
+    </comp>
+    <comp ref="J215">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>651483cb-2281-4bee-af1e-d5a7f231e855</tstamps>
+    </comp>
+    <comp ref="J216">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>b6a3c67d-b427-4b39-aec9-8021e7520ca3</tstamps>
+    </comp>
+    <comp ref="J217">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>1752a07b-ae0f-46ec-8cfa-d866d32e15eb</tstamps>
+    </comp>
+    <comp ref="J218">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>ceaaf379-eb3f-4fbb-817c-905eec78cd97</tstamps>
+    </comp>
+    <comp ref="J219">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>47d5b905-9782-449b-bc38-c55e5abaeecf</tstamps>
+    </comp>
+    <comp ref="J220">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>b32487a3-19b1-4265-b005-b5d91a581193</tstamps>
+    </comp>
+    <comp ref="J221">
+      <value>DB128L-5.08-2P-BK-S</value>
+      <footprint>PCB_Library:1729128</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
+      <fields>
+        <field name="Description">PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard</field>
+        <field name="Height">10.15</field>
+        <field name="LCSC">C430601</field>
+        <field name="Manufacturer_Part_Number">1729128</field>
+      </fields>
+      <libsource lib="PCB_Library" part="1729128" description="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Height" value="10.15"/>
+      <property name="Manufacturer_Part_Number" value="1729128"/>
+      <property name="LCSC" value="C430601"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>f9cb4d4f-344e-49af-a0c8-6bf72da27cd4</tstamps>
+    </comp>
+    <comp ref="J222">
+      <value>DB128L-5.08-2P-BK-S</value>
+      <footprint>PCB_Library:1729128</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
+      <fields>
+        <field name="Description">PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard</field>
+        <field name="Height">10.15</field>
+        <field name="LCSC">C430601</field>
+        <field name="Manufacturer_Part_Number">1729128</field>
+      </fields>
+      <libsource lib="PCB_Library" part="1729128" description="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Height" value="10.15"/>
+      <property name="Manufacturer_Part_Number" value="1729128"/>
+      <property name="LCSC" value="C430601"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>639ce8be-3d97-4c96-8fcc-9367cc0d8cdd</tstamps>
+    </comp>
+    <comp ref="J223">
+      <value>DB128L-5.08-2P-BK-S</value>
+      <footprint>PCB_Library:1729128</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
+      <fields>
+        <field name="Description">PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard</field>
+        <field name="Height">10.15</field>
+        <field name="LCSC">C430601</field>
+        <field name="Manufacturer_Part_Number">1729128</field>
+      </fields>
+      <libsource lib="PCB_Library" part="1729128" description="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Height" value="10.15"/>
+      <property name="Manufacturer_Part_Number" value="1729128"/>
+      <property name="LCSC" value="C430601"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>087ad897-576a-454e-81ea-998d548c52a0</tstamps>
+    </comp>
+    <comp ref="J224">
+      <value>DB128L-5.08-2P-BK-S</value>
+      <footprint>PCB_Library:1729128</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
+      <fields>
+        <field name="Description">PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard</field>
+        <field name="Height">10.15</field>
+        <field name="LCSC">C430601</field>
+        <field name="Manufacturer_Part_Number">1729128</field>
+      </fields>
+      <libsource lib="PCB_Library" part="1729128" description="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Height" value="10.15"/>
+      <property name="Manufacturer_Part_Number" value="1729128"/>
+      <property name="LCSC" value="C430601"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>f4d0e0d5-3241-4fb8-85a6-5c02939ee856</tstamps>
+    </comp>
+    <comp ref="J225">
+      <value>DB128L-5.08-2P-BK-S</value>
+      <footprint>PCB_Library:1729128</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
+      <fields>
+        <field name="Description">PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard</field>
+        <field name="Height">10.15</field>
+        <field name="LCSC">C430601</field>
+        <field name="Manufacturer_Part_Number">1729128</field>
+      </fields>
+      <libsource lib="PCB_Library" part="1729128" description="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Height" value="10.15"/>
+      <property name="Manufacturer_Part_Number" value="1729128"/>
+      <property name="LCSC" value="C430601"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>05b3097d-346d-4ca0-bf64-74de39918411</tstamps>
+    </comp>
+    <comp ref="J226">
+      <value>B04B-XASK-1</value>
+      <footprint>PCB_Library:CONN_B04B-XASK-1-A_JST</footprint>
+      <datasheet>B04B-XASK-1</datasheet>
+      <fields>
+        <field name="LCSC">C491709</field>
+      </fields>
+      <libsource lib="PCB_Library" part="B04B-XASK-1" description="1x4P 4P XA Tin 4 -25℃~+85℃ 3A 1 2.5mm Copper Alloy Direct Insert Plugin,P=2.5mm Wire To Board Connector ROHS"/>
+      <property name="LCSC" value="C491709"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="1x4P 4P XA Tin 4 -25℃~+85℃ 3A 1 2.5mm Copper Alloy Direct Insert Plugin,P=2.5mm Wire To Board Connector ROHS"/>
+      <property name="ki_keywords" value="B04B-XASK-1"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>efaba064-e078-42c6-9fc1-fee8f51247c0</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>360R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/18620-1206W4F3600T5E/C17932</datasheet>
+      <fields>
+        <field name="LCSC">C17932</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17932"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>a477d53c-3ade-45db-aff6-ab6c59a07ef6</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>360R</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/18620-1206W4F3600T5E/C17932</datasheet>
+      <fields>
+        <field name="LCSC">C17932</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17932"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>f8183ba0-e62d-40f8-a2d5-d2af401fe914</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>475R</value>
+      <footprint>Resistor_SMD:R_1210_3225Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/839336-1210W2F4750T5E/C784300</datasheet>
+      <fields>
+        <field name="LCSC">C784300</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C784300"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>1f323646-6896-4904-a97b-7a032d6785f1</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>475R</value>
+      <footprint>Resistor_SMD:R_1210_3225Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/839336-1210W2F4750T5E/C784300</datasheet>
+      <fields>
+        <field name="LCSC">C784300</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C784300"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.1.1.a"/>
+      <property name="Sheetfile" value="12.1.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.1.1.a/" tstamps="/d99484f6-da92-42b0-b2f9-f368838f5eb8/"/>
+      <tstamps>01b279e9-fb0d-4e04-abff-24f605080f49</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED WHITE</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809041711_Hubei-KENTO-Elec-C2290_C2290.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2290</field>
+        <field name="MAX_TEMP">85 C</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2290"/>
+      <property name="MAX_TEMP" value="85 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>43e5ae2b-e015-483b-a01b-98451ca9e1f6</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED WHITE</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809041711_Hubei-KENTO-Elec-C2290_C2290.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2290</field>
+        <field name="MAX_TEMP">85 C</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2290"/>
+      <property name="MAX_TEMP" value="85 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>c769b778-9f0f-43d8-b31c-bb237823c4eb</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED WHITE</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809041711_Hubei-KENTO-Elec-C2290_C2290.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2290</field>
+        <field name="MAX_TEMP">85 C</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2290"/>
+      <property name="MAX_TEMP" value="85 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>127f3d85-40dc-45f3-8327-e40e680cb96b</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED WHITE</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809041711_Hubei-KENTO-Elec-C2290_C2290.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2290</field>
+        <field name="MAX_TEMP">85 C</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C2290"/>
+      <property name="MAX_TEMP" value="85 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>80363710-a747-4a56-ab3d-293ffec42023</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>aeff169e-3109-48f0-89d8-744bfd1bf7e7</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>2a7f8166-435e-4636-8521-f80b5f27847f</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>86a04d71-09b9-49a6-8a66-6a59bab85c6a</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>aa45ecc5-0fec-4ab5-b4f0-5765462390a0</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>0b039b2f-b869-4ebc-97e9-9f6467dea320</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>18981eb8-c828-46bd-8a4a-542bcbd60f71</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>bca857c6-5c69-43e6-b25f-0b4d04be86b3</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>ffdd3ef4-f597-4a19-9dd7-f624808fac92</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>a2f19a71-eaba-40ac-9e68-88f5d7119c11</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>9440acde-5023-4d04-82a2-0f3f8c0a2a7e</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>e9977353-f162-44e2-96aa-947b362b4f2d</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>BAT54J</value>
+      <footprint>Diode_SMD:D_SOD-323F</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Foshan_Blue_RocketElec-BAT54J/C358488</datasheet>
+      <fields>
+        <field name="LCSC">C358488</field>
+      </fields>
+      <libsource lib="Diode" part="BAT54J" description="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="LCSC" value="C358488"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="30V 200mA Schottky diode, SOD-323F"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>f9b82002-3d8d-4bb6-a6e0-dcf84148cb5c</tstamps>
+    </comp>
+    <comp ref="D301">
+      <value>SS34</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/mdd_microdiode_semiconductor-SS34/C8678</datasheet>
+      <fields>
+        <field name="LCSC">C8678</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="PCB_Library" part="SMBJ24A" description=""/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="LCSC" value="C8678"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>6d96573b-d812-490b-87a3-2a24d6e7f843</tstamps>
+    </comp>
+    <comp ref="D302">
+      <value>SS34</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/mdd_microdiode_semiconductor-SS34/C8678</datasheet>
+      <fields>
+        <field name="LCSC">C8678</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="PCB_Library" part="SMBJ24A" description=""/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="LCSC" value="C8678"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>e10f398b-1d75-45c6-a55c-beb66e1162c0</tstamps>
+    </comp>
+    <comp ref="D303">
+      <value>SS34</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/mdd_microdiode_semiconductor-SS34/C8678</datasheet>
+      <fields>
+        <field name="LCSC">C8678</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="PCB_Library" part="SMBJ24A" description=""/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="LCSC" value="C8678"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>f05acdec-78dd-4ae4-b469-196897576a8d</tstamps>
+    </comp>
+    <comp ref="D309">
+      <value>SS34</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/mdd_microdiode_semiconductor-SS34/C8678</datasheet>
+      <fields>
+        <field name="LCSC">C8678</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="PCB_Library" part="SMBJ24A" description=""/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="LCSC" value="C8678"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>510317dd-cac8-471d-a8ef-c6f5bbe899b3</tstamps>
+    </comp>
+    <comp ref="J301">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>410a7df9-dc5c-40fe-b3e2-fc939a817fcb</tstamps>
+    </comp>
+    <comp ref="J302">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>05644ece-3d3f-43ab-b4d9-b5fe48e21304</tstamps>
+    </comp>
+    <comp ref="J303">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>16fa7d0b-8fe3-453f-9c39-64f28f4f26dd</tstamps>
+    </comp>
+    <comp ref="J304">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>bd1ff23c-9d47-439f-aa7c-b9713274e259</tstamps>
+    </comp>
+    <comp ref="J305">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>55e272b6-3d5b-4de4-99e1-f2beee3bf1ac</tstamps>
+    </comp>
+    <comp ref="J306">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>3dca55bf-4aaf-446d-908c-14a530aec513</tstamps>
+    </comp>
+    <comp ref="J307">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>6e30e443-8c42-405a-b4c0-32fb7126d1b1</tstamps>
+    </comp>
+    <comp ref="J308">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>bb680894-8559-4f7c-b74a-45bbceecf2b4</tstamps>
+    </comp>
+    <comp ref="J309">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>2951af62-c994-4968-90e0-3b543cf7e209</tstamps>
+    </comp>
+    <comp ref="J310">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>1ced679c-73d2-4e1d-89a9-3f58b21865a7</tstamps>
+    </comp>
+    <comp ref="J311">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>a674b601-af0d-4c15-b121-87535516d227</tstamps>
+    </comp>
+    <comp ref="J312">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>631bd72c-d943-49af-95f9-a96860f29a3c</tstamps>
+    </comp>
+    <comp ref="J313">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>e893ef0d-f7b2-413e-9031-4ee83caeee39</tstamps>
+    </comp>
+    <comp ref="J314">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>cfd7aad1-877b-45ac-856b-aefb96310fa7</tstamps>
+    </comp>
+    <comp ref="J315">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>0a62eb03-54eb-4d69-b287-45b49c137f39</tstamps>
+    </comp>
+    <comp ref="J316">
+      <value>Conn_01x01_PAD</value>
+      <footprint>PCB_Library:Conn_pin_PLC</footprint>
+      <libsource lib="PCB_Library" part="Conn_01x01_PAD" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>15bb3741-e6eb-4065-a232-734049f45c81</tstamps>
+    </comp>
+    <comp ref="J317">
+      <value>DB128L-5.08-2P-BK-S</value>
+      <footprint>PCB_Library:1729128</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
+      <fields>
+        <field name="Height">10.15</field>
+        <field name="LCSC">C430601</field>
+        <field name="Mouser Part Number">651-1729128</field>
+      </fields>
+      <libsource lib="PCB_Library" part="1729128" description="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Height" value="10.15"/>
+      <property name="Mouser Part Number" value="651-1729128"/>
+      <property name="LCSC" value="C430601"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>9f49c403-b2ec-475b-ab4d-95f00dc14c68</tstamps>
+    </comp>
+    <comp ref="J318">
+      <value>DB128L-5.08-3P-BK-S</value>
+      <footprint>PCB_Library:XY128V-A-5.08-3P</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_3P_BKS/C430602</datasheet>
+      <fields>
+        <field name="Height">10.15</field>
+        <field name="LCSC">C430602</field>
+      </fields>
+      <libsource lib="PCB_Library" part="XY128V-A-5.08-3P" description="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Height" value="10.15"/>
+      <property name="LCSC" value="C430602"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>0ead4034-55cd-4312-acf6-b6c1f5898a17</tstamps>
+    </comp>
+    <comp ref="J319">
+      <value>DB128L-5.08-2P-BK-S</value>
+      <footprint>PCB_Library:1729128</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
+      <fields>
+        <field name="Height">10.15</field>
+        <field name="LCSC">C430601</field>
+        <field name="Mouser Part Number">651-1729128</field>
+      </fields>
+      <libsource lib="PCB_Library" part="1729128" description="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Height" value="10.15"/>
+      <property name="Mouser Part Number" value="651-1729128"/>
+      <property name="LCSC" value="C430601"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>9c67da72-62e9-46ae-864f-91ee9f988469</tstamps>
+    </comp>
+    <comp ref="J320">
+      <value>DB128L-5.08-2P-BK-S</value>
+      <footprint>PCB_Library:1729128</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/Dorabo-DB128L_5_08_2P_BKS/C430601</datasheet>
+      <fields>
+        <field name="Height">10.15</field>
+        <field name="LCSC">C430601</field>
+        <field name="Mouser Part Number">651-1729128</field>
+      </fields>
+      <libsource lib="PCB_Library" part="1729128" description="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <property name="Height" value="10.15"/>
+      <property name="Mouser Part Number" value="651-1729128"/>
+      <property name="LCSC" value="C430601"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>625329ff-3083-4e08-ba79-0ed8e685ed1f</tstamps>
+    </comp>
+    <comp ref="J321">
+      <value>B04B-XASK-1</value>
+      <footprint>PCB_Library:CONN_B04B-XASK-1-A_JST</footprint>
+      <datasheet>B04B-XASK-1</datasheet>
+      <fields>
+        <field name="LCSC">C491709</field>
+      </fields>
+      <libsource lib="PCB_Library" part="B04B-XASK-1" description="1x4P 4P XA Tin 4 -25℃~+85℃ 3A 1 2.5mm Copper Alloy Direct Insert Plugin,P=2.5mm Wire To Board Connector ROHS"/>
+      <property name="LCSC" value="C491709"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="1x4P 4P XA Tin 4 -25℃~+85℃ 3A 1 2.5mm Copper Alloy Direct Insert Plugin,P=2.5mm Wire To Board Connector ROHS"/>
+      <property name="ki_keywords" value="B04B-XASK-1"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>73b08d16-f52d-4284-a93c-e1e600235cf3</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+        <field name="MAX_TEMP">150 C</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="LCSC" value="C8545"/>
+      <property name="MAX_TEMP" value="150 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="ki_keywords" value="N-Channel Switching MOSFET"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>7b80cecd-a11f-4966-b899-71835d737865</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+        <field name="MAX_TEMP">150 C</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="LCSC" value="C8545"/>
+      <property name="MAX_TEMP" value="150 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="ki_keywords" value="N-Channel Switching MOSFET"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>d3676dfa-4157-4de9-9c84-fa4d1464abae</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+        <field name="MAX_TEMP">150 C</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="LCSC" value="C8545"/>
+      <property name="MAX_TEMP" value="150 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="ki_keywords" value="N-Channel Switching MOSFET"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>a223e31b-68f6-45ae-a990-817ec799320e</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+        <field name="MAX_TEMP">150 C</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="LCSC" value="C8545"/>
+      <property name="MAX_TEMP" value="150 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="ki_keywords" value="N-Channel Switching MOSFET"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>e7d58215-d99e-45ae-8d6d-6b140e4654a4</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>DMP6023LE-PMOS</value>
+      <footprint>PCB_Library:SOT-223 DMP6023LE</footprint>
+      <datasheet>https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs</datasheet>
+      <fields>
+        <field name="LCSC">C154901</field>
+        <field name="Sim.Device">PMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="Sim.Type">VDMOS</field>
+      </fields>
+      <libsource lib="PCB_Library" part="DMP6023LE-PMOS" description="P-MOSFET transistor, drain/source/gate"/>
+      <property name="Sim.Device" value="PMOS"/>
+      <property name="Sim.Type" value="VDMOS"/>
+      <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="LCSC" value="C154901"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="P-MOSFET transistor, drain/source/gate"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET simulation"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>6a4f97e7-9918-4c77-ad70-56c56bb39592</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>DMP6023LE-PMOS</value>
+      <footprint>PCB_Library:SOT-223 DMP6023LE</footprint>
+      <datasheet>https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs</datasheet>
+      <fields>
+        <field name="LCSC">C154901</field>
+        <field name="Sim.Device">PMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="Sim.Type">VDMOS</field>
+      </fields>
+      <libsource lib="PCB_Library" part="DMP6023LE-PMOS" description="P-MOSFET transistor, drain/source/gate"/>
+      <property name="Sim.Device" value="PMOS"/>
+      <property name="Sim.Type" value="VDMOS"/>
+      <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="LCSC" value="C154901"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="P-MOSFET transistor, drain/source/gate"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET simulation"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>d30af555-57e1-4175-966f-cb0ff7254351</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>DMP6023LE-PMOS</value>
+      <footprint>PCB_Library:SOT-223 DMP6023LE</footprint>
+      <datasheet>https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs</datasheet>
+      <fields>
+        <field name="LCSC">C154901</field>
+        <field name="Sim.Device">PMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="Sim.Type">VDMOS</field>
+      </fields>
+      <libsource lib="PCB_Library" part="DMP6023LE-PMOS" description="P-MOSFET transistor, drain/source/gate"/>
+      <property name="Sim.Device" value="PMOS"/>
+      <property name="Sim.Type" value="VDMOS"/>
+      <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="LCSC" value="C154901"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="P-MOSFET transistor, drain/source/gate"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET simulation"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>0c4447fe-de96-4f2a-b0b7-9923aad6667e</tstamps>
+    </comp>
+    <comp ref="Q10">
+      <value>DMP6023LE-PMOS</value>
+      <footprint>PCB_Library:SOT-223 DMP6023LE</footprint>
+      <datasheet>https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs</datasheet>
+      <fields>
+        <field name="LCSC">C154901</field>
+        <field name="Sim.Device">PMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="Sim.Type">VDMOS</field>
+      </fields>
+      <libsource lib="PCB_Library" part="DMP6023LE-PMOS" description="P-MOSFET transistor, drain/source/gate"/>
+      <property name="Sim.Device" value="PMOS"/>
+      <property name="Sim.Type" value="VDMOS"/>
+      <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="LCSC" value="C154901"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="P-MOSFET transistor, drain/source/gate"/>
+      <property name="ki_keywords" value="transistor PMOS P-MOS P-MOSFET simulation"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>de2d9921-ccf8-431e-a8ba-1650913a94a5</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>d993db2f-93ae-45e8-87a6-ecff54ae0be0</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>e74f1cf9-e884-4c44-8bbc-2f2da91a605a</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>68016dfa-cf96-48e3-910b-bdc11a849838</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>7e002fe0-c6fe-4ba6-9f2b-815f7624892e</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>4101c72f-fa30-42d8-b353-a6c65357fd09</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>a2192845-6f53-4bb9-9163-63283b77e919</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>677e115c-6c66-42d8-99cc-2324db2b3ae6</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>f85e88f8-038c-4179-9a70-95401d761580</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C88615</field>
+        <field name="MAX_TEMP">125 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C88615"/>
+      <property name="MAX_TEMP" value="125 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>2e1bfe9d-2ac3-4b28-9530-97366e8f9a2d</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C88615</field>
+        <field name="MAX_TEMP">125 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C88615"/>
+      <property name="MAX_TEMP" value="125 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>9d304ef6-1176-4cdd-adf6-26c435298a06</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C88615</field>
+        <field name="MAX_TEMP">125 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C88615"/>
+      <property name="MAX_TEMP" value="125 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>95c26462-31c9-4d5a-99c4-d441f85d6db1</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C88615</field>
+        <field name="MAX_TEMP">125 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C88615"/>
+      <property name="MAX_TEMP" value="125 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>59b9d93b-df87-4aa0-8d07-f4dd4713ef89</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>552dba19-574e-46cd-b5ad-20494095e0bb</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>9e1c5500-364e-4282-b7fd-0557ba38803d</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>677a534a-92be-4dde-a8b7-9bc33d4d75a1</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>e18a7e81-75fc-4a28-ad60-45dbd67a2392</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>3537b98f-7ef6-491d-9be1-0709d96788e2</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>7468fcee-47c8-4751-87a6-c96e332db28a</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>c96b0ab0-2e98-41e6-af97-61c12d220af7</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260</datasheet>
+      <fields>
+        <field name="LCSC">C4260</field>
+        <field name="MAX_TEMP">155 C</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4260"/>
+      <property name="MAX_TEMP" value="155 C"/>
+      <property name="Sheetname" value="12.2.1.a"/>
+      <property name="Sheetfile" value="12.2.1.a.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/12.2.1.a/" tstamps="/3ad252d7-f965-499a-9026-c68aa870c5d8/"/>
+      <tstamps>f76d0745-d699-4759-8ddd-5113fe351bf6</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="BAT54J">
+      <description>30V 200mA Schottky diode, SOD-323F</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/BAT54J.pdf</docs>
+      <footprints>
+        <fp>D*SOD?323F*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAT54J</field>
+        <field name="Footprint">Diode_SMD:D_SOD-323F</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/BAT54J.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCB_Library" part="1729128">
+      <description>PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard</description>
+      <docs>https://jlcpcb.com/partdetail/581028-XY128V_A_5_082P/C557665</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">1729128</field>
+        <field name="Footprint">1729128</field>
+        <field name="Datasheet">https://jlcpcb.com/partdetail/581028-XY128V_A_5_082P/C557665</field>
+        <field name="Description">PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard</field>
+        <field name="Height">10.15</field>
+        <field name="Manufacturer_Part_Number">1729128</field>
+        <field name="LCSC">C557665</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCB_Library" part="B04B-XASK-1">
+      <description>1x4P 4P XA Tin 4 -25℃~+85℃ 3A 1 2.5mm Copper Alloy Direct Insert Plugin,P=2.5mm Wire To Board Connector ROHS</description>
+      <docs>B04B-XASK-1</docs>
+      <footprints>
+        <fp>CONN_B04B-XASK-1_JST</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">B04B-XASK-1</field>
+        <field name="Footprint">PCB_FOOTPRINT_Library:CONN_B04B-XASK-1_JST</field>
+        <field name="Datasheet">B04B-XASK-1</field>
+        <field name="LCSC">C264994</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCB_Library" part="Conn_01x01_PAD">
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_PAD</field>
+        <field name="Footprint">PCB_FOOTPRINT_Library:Conn_pin_PLC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCB_Library" part="DMP6023LE-PMOS">
+      <description>P-MOSFET transistor, drain/source/gate</description>
+      <docs>https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">DMP6023LE-PMOS</field>
+        <field name="Footprint">PCB_Library:SOT-223 DMP6023LE</field>
+        <field name="Datasheet">https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs</field>
+        <field name="Sim.Device">PMOS</field>
+        <field name="Sim.Type">VDMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="LCSC">C154901</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCB_Library" part="SMBJ24A">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SMBJ24A</field>
+        <field name="Footprint">DIOM4336X265N</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.65 mm</field>
+        <field name="MANUFACTURER">Taiwan Semiconductor</field>
+        <field name="PARTREV">F2102</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCB_Library" part="XY128V-A-5.08-3P">
+      <description>PCB terminal block, nominal current: 13.5 A, rated voltage (III/2): 400 V, nominal cross section: 1.5 mm?, Number of potentials: 2, Number of rows: 1, Number of positions per row: 2, product range: MKDSN 1,5, pitch: 5.08 mm, connection method: Screw connection with tension sleeve, mounting: Wave soldering, conductor/PCB connection direction: 0 ?, color: green, Pin layout: Linear pinning, Solder pin [P]: 3.5 mm, type of packaging: packed in cardboard</description>
+      <docs>https://jlcpcb.com/partdetail/581029-XY128V_A_5_083P/C557666</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">XY128V-A-5.08-3P</field>
+        <field name="Footprint">PCB_FOOTPRINT_Library:XY128V-A-5.08-3P</field>
+        <field name="Datasheet">https://jlcpcb.com/partdetail/581029-XY128V_A_5_083P/C557666</field>
+        <field name="Height">10.15</field>
+        <field name="LCSC">C557666</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="2N7002">
+      <description>0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N7002</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="PCB_Library">
+      <uri>C:\DATA\Dropbox\Volodyne\Volodyne Engineering\00 PCB\PLC_Connector\14.1.6 - PMOS - PLC Connector Combined/PCB_Library.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GNDPWR">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D301" pin="2" pintype="passive"/>
+      <node ref="D302" pin="2" pintype="passive"/>
+      <node ref="D303" pin="2" pintype="passive"/>
+      <node ref="D309" pin="2" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J301" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J303" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J305" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J307" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J309" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J311" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J313" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J315" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J317" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J318" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J319" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J320" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="M">
+      <node ref="J209" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J219" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J223" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D309" pin="1" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J318" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J321" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="Q5" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D1-K)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D2-K)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D3-K)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D4-K)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D5-K)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D6-K)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D7-K)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D8-K)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D301" pin="1" pintype="passive"/>
+      <node ref="J317" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J321" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="Q6" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D10-K)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J318" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q10" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q8" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D302" pin="1" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J320" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J321" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="Q8" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D12-K)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D303" pin="1" pintype="passive"/>
+      <node ref="J319" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J321" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="Q10" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(J201-Pin_1)">
+      <node ref="J201" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J211" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J224" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(J202-Pin_1)">
+      <node ref="J202" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J212" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J224" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(J203-Pin_1)">
+      <node ref="J203" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J213" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J221" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J226" pin="4" pinfunction="4" pintype="unspecified"/>
+    </net>
+    <net code="19" name="Net-(J204-Pin_1)">
+      <node ref="J204" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J214" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J221" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J226" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="20" name="Net-(J205-Pin_1)">
+      <node ref="J205" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J215" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J222" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J226" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="21" name="Net-(J206-Pin_1)">
+      <node ref="J206" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J216" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J222" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J226" pin="1" pinfunction="1" pintype="unspecified"/>
+    </net>
+    <net code="22" name="Net-(J207-Pin_1)">
+      <node ref="J207" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J217" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J225" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(J208-Pin_1)">
+      <node ref="J208" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J218" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J225" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(J210-Pin_1)">
+      <node ref="J210" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J220" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J223" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(J302-Pin_1)">
+      <node ref="J302" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J308" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(J304-Pin_1)">
+      <node ref="J304" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J310" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(J306-Pin_1)">
+      <node ref="J306" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J312" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(J314-Pin_1)">
+      <node ref="J314" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J316" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(Q1-G)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(Q2-G)">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(Q3-G)">
+      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(Q4-G)">
+      <node ref="Q4" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(Q5-G)">
+      <node ref="Q5" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(Q6-G)">
+      <node ref="Q6" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(Q8-G)">
+      <node ref="Q8" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(Q10-G)">
+      <node ref="Q10" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>

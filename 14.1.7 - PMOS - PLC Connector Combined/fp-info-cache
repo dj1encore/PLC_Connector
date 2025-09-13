@@ -1,0 +1,127 @@
+31161746637077
+PCB_Library
+1729128
+1729128
+Connector
+0
+2
+2
+PCB_Library
+1757307
+1757307
+Connector
+0
+8
+8
+PCB_Library
+1759091
+1759091
+Connector
+0
+10
+10
+PCB_Library
+CONN_22-29-2041_MOL
+
+22292041 
+0
+4
+4
+PCB_Library
+CONN_B04B-XASK-1-A_JST
+
+B04B-XASK-1 
+0
+4
+4
+PCB_Library
+CONN_B04B-XASK-1_JST
+
+B04B-XASK-1 
+0
+4
+4
+PCB_Library
+Conn_pin_PLC
+
+
+0
+1
+1
+PCB_Library
+DB128V-5.08-10P-GN-S
+1729128
+Connector
+0
+10
+10
+PCB_Library
+Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork-MOD
+solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm
+solder Pin_ with flat fork
+0
+1
+1
+PCB_Library
+SOT-23
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+PCB_Library
+SOT-223
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+PCB_Library
+SOT-223 DMP6023LE
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+PCB_Library
+SOT230P700X185-4N
+
+
+0
+4
+4
+PCB_Library
+SolderJumper-2_P2.6mm_Open_RoundedPad2.0x3mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+PCB_Library
+XY128V-A-5.08-3P
+1888690
+Connector
+0
+3
+3
+PCB_Library
+mouse-bite-1mm-slot
+
+
+0
+0
+0
+PCB_Library
+mouse-bite-2.54mm-slot
+
+
+0
+0
+0
+PCB_Library
+mouse-bite-2mm-slot
+
+
+0
+0
+0
