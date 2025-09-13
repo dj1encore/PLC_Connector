@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "PCB_FOOTPRINT_Library")(type "KiCad")(uri "${KIPRJMOD}/PCB_FOOTPRINT_Library.pretty")(options "")(descr ""))
-)
